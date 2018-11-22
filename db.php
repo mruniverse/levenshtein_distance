@@ -1,4 +1,4 @@
-<?php $name_array =array (
+<?php $cases =array (
   0 => 
   array (
     'Caso' => '1',

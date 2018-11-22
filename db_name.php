@@ -1,39 +1,39 @@
 <?php
-$name_array = array();
 if (file_exists('./db.php'))
 {
   include "./db.php";
+  echo "[ + ] DB loaded\n";
+}
+else
+{
+    $cases = array();
+    $file = fopen('lista_chaves.csv', 'r');
+    $indices = fgetcsv($file);
+    fclose($file);
+
+    $file = fopen('bcds.csv', 'r');
+    while (($line = fgetcsv($file)) !== FALSE)
+    {
+
+      foreach ($indices as $key => $indice) {
+        $line[$indice] = $line[$key];
+        unset($line[$key]);
+      }
+      $cases[] = $line;
+    }
+    fclose($file);
+
+    file_put_contents('./db.php', "<?php \$cases =" . var_export($cases, TRUE) . "?>");
+    echo "[ + ] DB created\n";
 }
 
-$file = fopen('lista_chaves.csv', 'r');
-$indices = fgetcsv($file);
-fclose($file);
-
-$file = fopen('bcds.csv', 'r');
+$file = fopen('pesos.csv', 'r');
+$weights = array();
 while (($line = fgetcsv($file)) !== FALSE)
 {
-
-foreach ($indices as $key => $indice) {
-  $line[$indice] = $line[$key];
-  unset($line[$key]);
+  $weights[$line[0]] = $line[1];
 }
-/*
-  $line['Caso'] = $line[0];
-  unset($line[0]);
 
-  $line['DescDoenca'] = $line[1];
-  unset($line[1]);
-
-  $line['area-damaged'] = $line[2];
-  unset($line[2]);
-
-*/
-$name_array[] = $line;
-}
 fclose($file);
-
-echo "[ + ] DB created\n";
-file_put_contents('./db.php', "<?php \$name_array =" . var_export($name_array, TRUE) . "?>");
-
-//var_dump($name_array);
+print_r($weights);
  ?>
