@@ -26,7 +26,7 @@ else
     file_put_contents('./db.php', "<?php \$cases =" . var_export($cases, TRUE) . "?>");
     echo "[ + ] DB created\n";
 }
-
+//Lendo pesos
 $file = fopen('pesos.csv', 'r');
 $weights = array();
 while (($line = fgetcsv($file)) !== FALSE)
@@ -35,5 +35,21 @@ while (($line = fgetcsv($file)) !== FALSE)
 }
 
 fclose($file);
-print_r($weights);
+//print_r($weights);
+
+//Lendo valores de atributos
+$file = fopen('valores_de_atributos.csv', 'r');
+$attributes = array();
+while (($line = fgetcsv($file)) !== FALSE)
+{
+  $attributes[] = $line;
+}
+
+fclose($file);
+print_r($attributes);
+
+
+
+
+
  ?>
