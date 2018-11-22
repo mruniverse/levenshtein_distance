@@ -42,9 +42,14 @@ $file = fopen('valores_de_atributos.csv', 'r');
 $attributes = array();
 while (($line = fgetcsv($file)) !== FALSE)
 {
-  $attributes[] = $line;
+  if ($line[0] != "")
+  {
+    $key = $line[0];
+    $attributes[$key][$line[2]] = $line[3];
+  }
+  else
+    $attributes[$key][$line[2]] = $line[1];
 }
-
 fclose($file);
 print_r($attributes);
 
