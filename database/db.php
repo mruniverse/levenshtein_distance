@@ -1,7 +1,6 @@
 <?php $cases =array (
-  0 => 
+  1 => 
   array (
-    'Caso' => '1',
     'DescDoenca' => 'diaporthe-stem-canker',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'Brown',
@@ -39,9 +38,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  1 => 
+  2 => 
   array (
-    'Caso' => '2',
     'DescDoenca' => 'diaporthe-stem-canker',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'Brown',
@@ -52,46 +50,6 @@
     'fruiting-bodies' => 'Present',
     'fruit-pods' => 'Norm',
     'germination' => '80-89%',
-    'hail' => 'Yes',
-    'int-discolor' => 'None',
-    'leaf-malf' => 'Absent',
-    'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
-    'leafspot-size' => 'dna',
-    'leafspots-marg' => 'dna',
-    'leaves' => 'Abnorm',
-    'lodging' => 'Yes',
-    'mold-growth' => 'Absent',
-    'mycelium' => 'Absent',
-    'plant-growth' => 'Abnorm',
-    'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
-    'roots' => 'Norm',
-    'sclerotia' => 'Absent',
-    'seed' => 'Norm',
-    'seed-discolor' => 'Absent',
-    'seed-size' => 'Norm',
-    'seed-tmt' => 'fungicida',
-    'severity' => 'severe',
-    'shriveling' => 'Absent',
-    'stem' => 'Abnorm',
-    'stem-cankers' => 'Above-sec-nde',
-    'temp' => 'norm',
-  ),
-  2 => 
-  array (
-    'Caso' => '3',
-    'DescDoenca' => 'diaporthe-stem-canker',
-    'area-damaged' => 'scattered',
-    'canker-lesion' => 'dna',
-    'crop-hist' => 'same-1st-yr',
-    'date' => 'Julho',
-    'external decay' => 'firm-and-dry',
-    'fruit spots' => 'dna',
-    'fruiting-bodies' => 'Present',
-    'fruit-pods' => 'Norm',
-    'germination' => 'lt-80%',
     'hail' => 'Yes',
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
@@ -121,7 +79,45 @@
   ),
   3 => 
   array (
-    'Caso' => '4',
+    'DescDoenca' => 'diaporthe-stem-canker',
+    'area-damaged' => 'scattered',
+    'canker-lesion' => 'dna',
+    'crop-hist' => 'same-1st-yr',
+    'date' => 'Julho',
+    'external decay' => 'firm-and-dry',
+    'fruit spots' => 'dna',
+    'fruiting-bodies' => 'Present',
+    'fruit-pods' => 'Norm',
+    'germination' => 'lt-80%',
+    'hail' => 'Yes',
+    'int-discolor' => 'None',
+    'leaf-malf' => 'Absent',
+    'leaf-mild' => 'Absent',
+    'leaf-shread' => 'absent',
+    'leafspots-halo' => 'absent',
+    'leafspot-size' => 'dna',
+    'leafspots-marg' => 'dna',
+    'leaves' => 'Abnorm',
+    'lodging' => 'Yes',
+    'mold-growth' => 'Absent',
+    'mycelium' => 'Absent',
+    'plant-growth' => 'Abnorm',
+    'plant-stand' => 'Normal',
+    'precip' => 'gt-normal',
+    'roots' => 'Norm',
+    'sclerotia' => 'Absent',
+    'seed' => 'Norm',
+    'seed-discolor' => 'Absent',
+    'seed-size' => 'Norm',
+    'seed-tmt' => 'fungicida',
+    'severity' => 'severe',
+    'shriveling' => 'Absent',
+    'stem' => 'Abnorm',
+    'stem-cankers' => 'Above-sec-nde',
+    'temp' => 'norm',
+  ),
+  4 => 
+  array (
     'DescDoenca' => 'diaporthe-stem-canker',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dna',
@@ -159,9 +155,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  4 => 
+  5 => 
   array (
-    'Caso' => '5',
     'DescDoenca' => 'diaporthe-stem-canker',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'Brown',
@@ -172,46 +167,6 @@
     'fruiting-bodies' => 'Present',
     'fruit-pods' => 'Norm',
     'germination' => 'lt-80%',
-    'hail' => 'Yes',
-    'int-discolor' => 'None',
-    'leaf-malf' => 'Absent',
-    'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
-    'leafspot-size' => 'dna',
-    'leafspots-marg' => 'dna',
-    'leaves' => 'Abnorm',
-    'lodging' => 'Yes',
-    'mold-growth' => 'Absent',
-    'mycelium' => 'Absent',
-    'plant-growth' => 'Abnorm',
-    'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
-    'roots' => 'Norm',
-    'sclerotia' => 'Absent',
-    'seed' => 'Norm',
-    'seed-discolor' => 'Absent',
-    'seed-size' => 'Norm',
-    'seed-tmt' => 'none',
-    'severity' => 'pot-severe',
-    'shriveling' => 'Absent',
-    'stem' => 'Abnorm',
-    'stem-cankers' => 'Above-sec-nde',
-    'temp' => 'norm',
-  ),
-  5 => 
-  array (
-    'Caso' => '6',
-    'DescDoenca' => 'diaporthe-stem-canker',
-    'area-damaged' => 'scattered',
-    'canker-lesion' => 'dna',
-    'crop-hist' => 'same-lst-sev-yrs',
-    'date' => 'Setembro',
-    'external decay' => 'firm-and-dry',
-    'fruit spots' => 'dna',
-    'fruiting-bodies' => 'Present',
-    'fruit-pods' => 'Norm',
-    'germination' => '80-89%',
     'hail' => 'Yes',
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
@@ -241,7 +196,45 @@
   ),
   6 => 
   array (
-    'Caso' => '7',
+    'DescDoenca' => 'diaporthe-stem-canker',
+    'area-damaged' => 'scattered',
+    'canker-lesion' => 'dna',
+    'crop-hist' => 'same-lst-sev-yrs',
+    'date' => 'Setembro',
+    'external decay' => 'firm-and-dry',
+    'fruit spots' => 'dna',
+    'fruiting-bodies' => 'Present',
+    'fruit-pods' => 'Norm',
+    'germination' => '80-89%',
+    'hail' => 'Yes',
+    'int-discolor' => 'None',
+    'leaf-malf' => 'Absent',
+    'leaf-mild' => 'Absent',
+    'leaf-shread' => 'absent',
+    'leafspots-halo' => 'absent',
+    'leafspot-size' => 'dna',
+    'leafspots-marg' => 'dna',
+    'leaves' => 'Abnorm',
+    'lodging' => 'Yes',
+    'mold-growth' => 'Absent',
+    'mycelium' => 'Absent',
+    'plant-growth' => 'Abnorm',
+    'plant-stand' => 'Normal',
+    'precip' => 'gt-normal',
+    'roots' => 'Norm',
+    'sclerotia' => 'Absent',
+    'seed' => 'Norm',
+    'seed-discolor' => 'Absent',
+    'seed-size' => 'Norm',
+    'seed-tmt' => 'none',
+    'severity' => 'pot-severe',
+    'shriveling' => 'Absent',
+    'stem' => 'Abnorm',
+    'stem-cankers' => 'Above-sec-nde',
+    'temp' => 'norm',
+  ),
+  7 => 
+  array (
     'DescDoenca' => 'diaporthe-stem-canker',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'Brown',
@@ -279,9 +272,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  7 => 
+  8 => 
   array (
-    'Caso' => '8',
     'DescDoenca' => 'diaporthe-stem-canker',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'Brown',
@@ -319,9 +311,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  8 => 
+  9 => 
   array (
-    'Caso' => '9',
     'DescDoenca' => 'diaporthe-stem-canker',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'Brown',
@@ -359,9 +350,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  9 => 
+  10 => 
   array (
-    'Caso' => '10',
     'DescDoenca' => 'diaporthe-stem-canker',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'Brown',
@@ -399,9 +389,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  10 => 
+  11 => 
   array (
-    'Caso' => '11',
     'DescDoenca' => 'charcoal-rot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'tan',
@@ -439,9 +428,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  11 => 
+  12 => 
   array (
-    'Caso' => '12',
     'DescDoenca' => 'charcoal-rot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'tan',
@@ -479,9 +467,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  12 => 
+  13 => 
   array (
-    'Caso' => '13',
     'DescDoenca' => 'charcoal-rot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'tan',
@@ -519,9 +506,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  13 => 
+  14 => 
   array (
-    'Caso' => '14',
     'DescDoenca' => 'charcoal-rot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'tan',
@@ -559,9 +545,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  14 => 
+  15 => 
   array (
-    'Caso' => '15',
     'DescDoenca' => 'charcoal-rot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'tan',
@@ -573,46 +558,6 @@
     'fruit-pods' => 'Norm',
     'germination' => '80-89%',
     'hail' => 'Yes',
-    'int-discolor' => 'Black',
-    'leaf-malf' => 'Absent',
-    'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
-    'leafspot-size' => 'dna',
-    'leafspots-marg' => 'dna',
-    'leaves' => 'Abnorm',
-    'lodging' => 'Yes',
-    'mold-growth' => 'Absent',
-    'mycelium' => 'Absent',
-    'plant-growth' => 'Abnorm',
-    'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
-    'roots' => 'Norm',
-    'sclerotia' => 'Present',
-    'seed' => 'Norm',
-    'seed-discolor' => 'Absent',
-    'seed-size' => 'Norm',
-    'seed-tmt' => 'fungicida',
-    'severity' => 'pot-severe',
-    'shriveling' => 'Absent',
-    'stem' => 'Abnorm',
-    'stem-cankers' => 'Absent',
-    'temp' => 'gt-norm',
-  ),
-  15 => 
-  array (
-    'Caso' => '16',
-    'DescDoenca' => 'charcoal-rot',
-    'area-damaged' => 'whole-field',
-    'canker-lesion' => 'tan',
-    'crop-hist' => 'same-lst-sev-yrs',
-    'date' => 'Setembro',
-    'external decay' => 'Absent',
-    'fruit spots' => 'dna',
-    'fruiting-bodies' => 'Absent',
-    'fruit-pods' => 'Norm',
-    'germination' => 'lt-80%',
-    'hail' => 'No',
     'int-discolor' => 'Black',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
@@ -641,7 +586,45 @@
   ),
   16 => 
   array (
-    'Caso' => '17',
+    'DescDoenca' => 'charcoal-rot',
+    'area-damaged' => 'whole-field',
+    'canker-lesion' => 'tan',
+    'crop-hist' => 'same-lst-sev-yrs',
+    'date' => 'Setembro',
+    'external decay' => 'Absent',
+    'fruit spots' => 'dna',
+    'fruiting-bodies' => 'Absent',
+    'fruit-pods' => 'Norm',
+    'germination' => 'lt-80%',
+    'hail' => 'No',
+    'int-discolor' => 'Black',
+    'leaf-malf' => 'Absent',
+    'leaf-mild' => 'Absent',
+    'leaf-shread' => 'absent',
+    'leafspots-halo' => 'absent',
+    'leafspot-size' => 'dna',
+    'leafspots-marg' => 'dna',
+    'leaves' => 'Abnorm',
+    'lodging' => 'Yes',
+    'mold-growth' => 'Absent',
+    'mycelium' => 'Absent',
+    'plant-growth' => 'Abnorm',
+    'plant-stand' => 'Normal',
+    'precip' => 'lt-normal',
+    'roots' => 'Norm',
+    'sclerotia' => 'Present',
+    'seed' => 'Norm',
+    'seed-discolor' => 'Absent',
+    'seed-size' => 'Norm',
+    'seed-tmt' => 'fungicida',
+    'severity' => 'pot-severe',
+    'shriveling' => 'Absent',
+    'stem' => 'Abnorm',
+    'stem-cankers' => 'Absent',
+    'temp' => 'gt-norm',
+  ),
+  17 => 
+  array (
     'DescDoenca' => 'charcoal-rot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'tan',
@@ -679,9 +662,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  17 => 
+  18 => 
   array (
-    'Caso' => '18',
     'DescDoenca' => 'charcoal-rot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'tan',
@@ -719,9 +701,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  18 => 
+  19 => 
   array (
-    'Caso' => '19',
     'DescDoenca' => 'charcoal-rot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'tan',
@@ -759,9 +740,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  19 => 
+  20 => 
   array (
-    'Caso' => '20',
     'DescDoenca' => 'charcoal-rot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'tan',
@@ -799,9 +779,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  20 => 
+  21 => 
   array (
-    'Caso' => '21',
     'DescDoenca' => 'rhizoctonia-root-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'Brown',
@@ -839,9 +818,8 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'lt-norm',
   ),
-  21 => 
+  22 => 
   array (
-    'Caso' => '22',
     'DescDoenca' => 'rhizoctonia-root-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'Brown',
@@ -879,9 +857,8 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'lt-norm',
   ),
-  22 => 
+  23 => 
   array (
-    'Caso' => '23',
     'DescDoenca' => 'rhizoctonia-root-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'Brown',
@@ -919,9 +896,8 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'lt-norm',
   ),
-  23 => 
+  24 => 
   array (
-    'Caso' => '24',
     'DescDoenca' => 'rhizoctonia-root-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'Brown',
@@ -959,9 +935,8 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'lt-norm',
   ),
-  24 => 
+  25 => 
   array (
-    'Caso' => '25',
     'DescDoenca' => 'rhizoctonia-root-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'Brown',
@@ -999,9 +974,8 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'lt-norm',
   ),
-  25 => 
+  26 => 
   array (
-    'Caso' => '26',
     'DescDoenca' => 'rhizoctonia-root-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'Brown',
@@ -1039,9 +1013,8 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'lt-norm',
   ),
-  26 => 
+  27 => 
   array (
-    'Caso' => '27',
     'DescDoenca' => 'rhizoctonia-root-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'Brown',
@@ -1079,9 +1052,8 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'lt-norm',
   ),
-  27 => 
+  28 => 
   array (
-    'Caso' => '28',
     'DescDoenca' => 'rhizoctonia-root-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'Brown',
@@ -1119,54 +1091,13 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'lt-norm',
   ),
-  28 => 
+  29 => 
   array (
-    'Caso' => '29',
     'DescDoenca' => 'rhizoctonia-root-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'Brown',
     'crop-hist' => 'same-1st-yr',
     'date' => 'Maio',
-    'external decay' => 'firm-and-dry',
-    'fruit spots' => 'dna',
-    'fruiting-bodies' => 'Absent',
-    'fruit-pods' => 'dna',
-    'germination' => 'lt-80%',
-    'hail' => 'Yes',
-    'int-discolor' => 'None',
-    'leaf-malf' => 'Absent',
-    'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
-    'leafspot-size' => 'dna',
-    'leafspots-marg' => 'dna',
-    'leaves' => 'Norm',
-    'lodging' => 'Yes',
-    'mold-growth' => 'Absent',
-    'mycelium' => 'Absent',
-    'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
-    'roots' => 'Norm',
-    'sclerotia' => 'Absent',
-    'seed' => 'Norm',
-    'seed-discolor' => 'Absent',
-    'seed-size' => 'Norm',
-    'seed-tmt' => 'none',
-    'severity' => 'severe',
-    'shriveling' => 'Absent',
-    'stem' => 'Abnorm',
-    'stem-cankers' => 'below-soil',
-    'temp' => 'lt-norm',
-  ),
-  29 => 
-  array (
-    'Caso' => '30',
-    'DescDoenca' => 'rhizoctonia-root-rot',
-    'area-damaged' => 'low-areas',
-    'canker-lesion' => 'Brown',
-    'crop-hist' => 'same-1st-yr',
-    'date' => 'Junho',
     'external decay' => 'firm-and-dry',
     'fruit spots' => 'dna',
     'fruiting-bodies' => 'Absent',
@@ -1201,7 +1132,45 @@
   ),
   30 => 
   array (
-    'Caso' => '31',
+    'DescDoenca' => 'rhizoctonia-root-rot',
+    'area-damaged' => 'low-areas',
+    'canker-lesion' => 'Brown',
+    'crop-hist' => 'same-1st-yr',
+    'date' => 'Junho',
+    'external decay' => 'firm-and-dry',
+    'fruit spots' => 'dna',
+    'fruiting-bodies' => 'Absent',
+    'fruit-pods' => 'dna',
+    'germination' => 'lt-80%',
+    'hail' => 'Yes',
+    'int-discolor' => 'None',
+    'leaf-malf' => 'Absent',
+    'leaf-mild' => 'Absent',
+    'leaf-shread' => 'absent',
+    'leafspots-halo' => 'absent',
+    'leafspot-size' => 'dna',
+    'leafspots-marg' => 'dna',
+    'leaves' => 'Norm',
+    'lodging' => 'Yes',
+    'mold-growth' => 'Absent',
+    'mycelium' => 'Absent',
+    'plant-growth' => 'Abnorm',
+    'plant-stand' => 'lt-normal',
+    'precip' => 'gt-normal',
+    'roots' => 'Norm',
+    'sclerotia' => 'Absent',
+    'seed' => 'Norm',
+    'seed-discolor' => 'Absent',
+    'seed-size' => 'Norm',
+    'seed-tmt' => 'none',
+    'severity' => 'severe',
+    'shriveling' => 'Absent',
+    'stem' => 'Abnorm',
+    'stem-cankers' => 'below-soil',
+    'temp' => 'lt-norm',
+  ),
+  31 => 
+  array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -1239,9 +1208,8 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'norm',
   ),
-  31 => 
+  32 => 
   array (
-    'Caso' => '32',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -1279,9 +1247,8 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'norm',
   ),
-  32 => 
+  33 => 
   array (
-    'Caso' => '33',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -1319,9 +1286,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  33 => 
+  34 => 
   array (
-    'Caso' => '34',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -1359,9 +1325,8 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'lt-norm',
   ),
-  34 => 
+  35 => 
   array (
-    'Caso' => '35',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -1399,9 +1364,8 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'gt-norm',
   ),
-  35 => 
+  36 => 
   array (
-    'Caso' => '36',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -1439,9 +1403,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  36 => 
+  37 => 
   array (
-    'Caso' => '37',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -1479,9 +1442,8 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'norm',
   ),
-  37 => 
+  38 => 
   array (
-    'Caso' => '38',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -1519,9 +1481,8 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'lt-norm',
   ),
-  38 => 
+  39 => 
   array (
-    'Caso' => '39',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -1559,9 +1520,8 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'norm',
   ),
-  39 => 
+  40 => 
   array (
-    'Caso' => '40',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -1599,9 +1559,8 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'lt-norm',
   ),
-  40 => 
+  41 => 
   array (
-    'Caso' => '41',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -1639,9 +1598,8 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'norm',
   ),
-  41 => 
+  42 => 
   array (
-    'Caso' => '42',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -1679,9 +1637,8 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'norm',
   ),
-  42 => 
+  43 => 
   array (
-    'Caso' => '43',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -1719,9 +1676,8 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'norm',
   ),
-  43 => 
+  44 => 
   array (
-    'Caso' => '44',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -1759,9 +1715,8 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'norm',
   ),
-  44 => 
+  45 => 
   array (
-    'Caso' => '45',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -1799,9 +1754,8 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'lt-norm',
   ),
-  45 => 
+  46 => 
   array (
-    'Caso' => '46',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -1839,9 +1793,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  46 => 
+  47 => 
   array (
-    'Caso' => '47',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -1879,9 +1832,8 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'norm',
   ),
-  47 => 
+  48 => 
   array (
-    'Caso' => '48',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -1919,9 +1871,8 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'gt-norm',
   ),
-  48 => 
+  49 => 
   array (
-    'Caso' => '49',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -1959,9 +1910,8 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'norm',
   ),
-  49 => 
+  50 => 
   array (
-    'Caso' => '50',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -1999,9 +1949,8 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'norm',
   ),
-  50 => 
+  51 => 
   array (
-    'Caso' => '51',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -2039,9 +1988,8 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'norm',
   ),
-  51 => 
+  52 => 
   array (
-    'Caso' => '52',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -2079,9 +2027,8 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'norm',
   ),
-  52 => 
+  53 => 
   array (
-    'Caso' => '53',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -2100,46 +2047,6 @@
     'leafspots-halo' => 'Desconhecido',
     'leafspot-size' => 'Desconhecido',
     'leafspots-marg' => 'Desconhecido',
-    'leaves' => 'Abnorm',
-    'lodging' => 'Desconhecido',
-    'mold-growth' => 'Desconhecido',
-    'mycelium' => 'Absent',
-    'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
-    'roots' => 'Rotted',
-    'sclerotia' => 'Absent',
-    'seed' => 'Desconhecido',
-    'seed-discolor' => 'Desconhecido',
-    'seed-size' => 'Desconhecido',
-    'seed-tmt' => 'Desconhecido',
-    'severity' => 'Desconhecido',
-    'shriveling' => 'Desconhecido',
-    'stem' => 'Abnorm',
-    'stem-cankers' => 'Above-sec-nde',
-    'temp' => 'norm',
-  ),
-  53 => 
-  array (
-    'Caso' => '54',
-    'DescDoenca' => 'phytophthora-rot',
-    'area-damaged' => 'low-areas',
-    'canker-lesion' => 'dk-brown-blk',
-    'crop-hist' => 'same-1st-yr',
-    'date' => 'Junho',
-    'external decay' => 'Absent',
-    'fruit spots' => 'Desconhecido',
-    'fruiting-bodies' => 'Desconhecido',
-    'fruit-pods' => 'Desconhecido',
-    'germination' => 'Desconhecido',
-    'hail' => 'Desconhecido',
-    'int-discolor' => 'None',
-    'leaf-malf' => 'Absent',
-    'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
-    'leafspot-size' => 'dna',
-    'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
     'lodging' => 'Desconhecido',
     'mold-growth' => 'Desconhecido',
@@ -2161,7 +2068,45 @@
   ),
   54 => 
   array (
-    'Caso' => '55',
+    'DescDoenca' => 'phytophthora-rot',
+    'area-damaged' => 'low-areas',
+    'canker-lesion' => 'dk-brown-blk',
+    'crop-hist' => 'same-1st-yr',
+    'date' => 'Junho',
+    'external decay' => 'Absent',
+    'fruit spots' => 'Desconhecido',
+    'fruiting-bodies' => 'Desconhecido',
+    'fruit-pods' => 'Desconhecido',
+    'germination' => 'Desconhecido',
+    'hail' => 'Desconhecido',
+    'int-discolor' => 'None',
+    'leaf-malf' => 'Absent',
+    'leaf-mild' => 'Absent',
+    'leaf-shread' => 'absent',
+    'leafspots-halo' => 'absent',
+    'leafspot-size' => 'dna',
+    'leafspots-marg' => 'dna',
+    'leaves' => 'Abnorm',
+    'lodging' => 'Desconhecido',
+    'mold-growth' => 'Desconhecido',
+    'mycelium' => 'Absent',
+    'plant-growth' => 'Abnorm',
+    'plant-stand' => 'lt-normal',
+    'precip' => 'gt-normal',
+    'roots' => 'Rotted',
+    'sclerotia' => 'Absent',
+    'seed' => 'Desconhecido',
+    'seed-discolor' => 'Desconhecido',
+    'seed-size' => 'Desconhecido',
+    'seed-tmt' => 'Desconhecido',
+    'severity' => 'Desconhecido',
+    'shriveling' => 'Desconhecido',
+    'stem' => 'Abnorm',
+    'stem-cankers' => 'Above-sec-nde',
+    'temp' => 'norm',
+  ),
+  55 => 
+  array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -2199,9 +2144,8 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'gt-norm',
   ),
-  55 => 
+  56 => 
   array (
-    'Caso' => '56',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -2239,9 +2183,8 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'norm',
   ),
-  56 => 
+  57 => 
   array (
-    'Caso' => '57',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -2279,9 +2222,8 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'norm',
   ),
-  57 => 
+  58 => 
   array (
-    'Caso' => '58',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -2319,9 +2261,8 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'gt-norm',
   ),
-  58 => 
+  59 => 
   array (
-    'Caso' => '59',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -2359,9 +2300,8 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'gt-norm',
   ),
-  59 => 
+  60 => 
   array (
-    'Caso' => '60',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -2399,9 +2339,8 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'gt-norm',
   ),
-  60 => 
+  61 => 
   array (
-    'Caso' => '61',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -2439,9 +2378,8 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'gt-norm',
   ),
-  61 => 
+  62 => 
   array (
-    'Caso' => '62',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -2479,9 +2417,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  62 => 
+  63 => 
   array (
-    'Caso' => '63',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -2519,9 +2456,8 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'lt-norm',
   ),
-  63 => 
+  64 => 
   array (
-    'Caso' => '64',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -2559,9 +2495,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  64 => 
+  65 => 
   array (
-    'Caso' => '65',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -2599,9 +2534,8 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'gt-norm',
   ),
-  65 => 
+  66 => 
   array (
-    'Caso' => '66',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -2639,9 +2573,8 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'lt-norm',
   ),
-  66 => 
+  67 => 
   array (
-    'Caso' => '67',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -2679,9 +2612,8 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'norm',
   ),
-  67 => 
+  68 => 
   array (
-    'Caso' => '68',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -2719,9 +2651,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  68 => 
+  69 => 
   array (
-    'Caso' => '69',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -2759,9 +2690,8 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'lt-norm',
   ),
-  69 => 
+  70 => 
   array (
-    'Caso' => '70',
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -2799,49 +2729,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  70 => 
-  array (
-    'Caso' => '71',
-    'DescDoenca' => 'brown-stem-rot',
-    'area-damaged' => 'whole-field',
-    'canker-lesion' => 'dna',
-    'crop-hist' => 'same-1st-yr',
-    'date' => 'Agosto',
-    'external decay' => 'Absent',
-    'fruit spots' => 'Absent',
-    'fruiting-bodies' => 'Absent',
-    'fruit-pods' => 'Norm',
-    'germination' => 'lt-80%',
-    'hail' => 'Yes',
-    'int-discolor' => 'Brown',
-    'leaf-malf' => 'Absent',
-    'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
-    'leafspot-size' => 'dna',
-    'leafspots-marg' => 'dna',
-    'leaves' => 'Abnorm',
-    'lodging' => 'Yes',
-    'mold-growth' => 'Absent',
-    'mycelium' => 'Absent',
-    'plant-growth' => 'Norm',
-    'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
-    'roots' => 'Norm',
-    'sclerotia' => 'Absent',
-    'seed' => 'Norm',
-    'seed-discolor' => 'Absent',
-    'seed-size' => 'Norm',
-    'seed-tmt' => 'fungicida',
-    'severity' => 'pot-severe',
-    'shriveling' => 'Absent',
-    'stem' => 'Abnorm',
-    'stem-cankers' => 'Absent',
-    'temp' => 'norm',
-  ),
   71 => 
   array (
-    'Caso' => '72',
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -2881,7 +2770,45 @@
   ),
   72 => 
   array (
-    'Caso' => '73',
+    'DescDoenca' => 'brown-stem-rot',
+    'area-damaged' => 'whole-field',
+    'canker-lesion' => 'dna',
+    'crop-hist' => 'same-1st-yr',
+    'date' => 'Agosto',
+    'external decay' => 'Absent',
+    'fruit spots' => 'Absent',
+    'fruiting-bodies' => 'Absent',
+    'fruit-pods' => 'Norm',
+    'germination' => 'lt-80%',
+    'hail' => 'Yes',
+    'int-discolor' => 'Brown',
+    'leaf-malf' => 'Absent',
+    'leaf-mild' => 'Absent',
+    'leaf-shread' => 'absent',
+    'leafspots-halo' => 'absent',
+    'leafspot-size' => 'dna',
+    'leafspots-marg' => 'dna',
+    'leaves' => 'Abnorm',
+    'lodging' => 'Yes',
+    'mold-growth' => 'Absent',
+    'mycelium' => 'Absent',
+    'plant-growth' => 'Norm',
+    'plant-stand' => 'Normal',
+    'precip' => 'lt-normal',
+    'roots' => 'Norm',
+    'sclerotia' => 'Absent',
+    'seed' => 'Norm',
+    'seed-discolor' => 'Absent',
+    'seed-size' => 'Norm',
+    'seed-tmt' => 'fungicida',
+    'severity' => 'pot-severe',
+    'shriveling' => 'Absent',
+    'stem' => 'Abnorm',
+    'stem-cankers' => 'Absent',
+    'temp' => 'norm',
+  ),
+  73 => 
+  array (
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'tan',
@@ -2919,9 +2846,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  73 => 
+  74 => 
   array (
-    'Caso' => '74',
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -2959,9 +2885,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  74 => 
+  75 => 
   array (
-    'Caso' => '75',
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -2999,9 +2924,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  75 => 
+  76 => 
   array (
-    'Caso' => '76',
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -3039,9 +2963,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  76 => 
+  77 => 
   array (
-    'Caso' => '77',
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'tan',
@@ -3079,9 +3002,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  77 => 
+  78 => 
   array (
-    'Caso' => '78',
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'tan',
@@ -3119,9 +3041,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  78 => 
+  79 => 
   array (
-    'Caso' => '79',
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'tan',
@@ -3159,9 +3080,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  79 => 
+  80 => 
   array (
-    'Caso' => '80',
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'tan',
@@ -3199,9 +3119,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  80 => 
+  81 => 
   array (
-    'Caso' => '81',
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'tan',
@@ -3239,9 +3158,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  81 => 
+  82 => 
   array (
-    'Caso' => '82',
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'tan',
@@ -3279,9 +3197,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  82 => 
+  83 => 
   array (
-    'Caso' => '83',
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dna',
@@ -3319,9 +3236,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  83 => 
+  84 => 
   array (
-    'Caso' => '84',
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'tan',
@@ -3359,9 +3275,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  84 => 
+  85 => 
   array (
-    'Caso' => '85',
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -3399,9 +3314,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  85 => 
+  86 => 
   array (
-    'Caso' => '86',
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -3439,9 +3353,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  86 => 
+  87 => 
   array (
-    'Caso' => '87',
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -3479,9 +3392,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  87 => 
+  88 => 
   array (
-    'Caso' => '88',
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -3519,9 +3431,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  88 => 
+  89 => 
   array (
-    'Caso' => '89',
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -3559,9 +3470,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  89 => 
+  90 => 
   array (
-    'Caso' => '90',
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -3599,9 +3509,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  90 => 
+  91 => 
   array (
-    'Caso' => '91',
     'DescDoenca' => 'powdery-mildew',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -3639,9 +3548,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  91 => 
+  92 => 
   array (
-    'Caso' => '92',
     'DescDoenca' => 'powdery-mildew',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dna',
@@ -3679,9 +3587,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  92 => 
+  93 => 
   array (
-    'Caso' => '93',
     'DescDoenca' => 'powdery-mildew',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -3719,9 +3626,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  93 => 
+  94 => 
   array (
-    'Caso' => '94',
     'DescDoenca' => 'powdery-mildew',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -3759,9 +3665,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  94 => 
+  95 => 
   array (
-    'Caso' => '95',
     'DescDoenca' => 'powdery-mildew',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -3799,9 +3704,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  95 => 
+  96 => 
   array (
-    'Caso' => '96',
     'DescDoenca' => 'powdery-mildew',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -3839,9 +3743,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  96 => 
+  97 => 
   array (
-    'Caso' => '97',
     'DescDoenca' => 'powdery-mildew',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -3879,9 +3782,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  97 => 
+  98 => 
   array (
-    'Caso' => '98',
     'DescDoenca' => 'powdery-mildew',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -3919,9 +3821,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  98 => 
+  99 => 
   array (
-    'Caso' => '99',
     'DescDoenca' => 'powdery-mildew',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -3959,9 +3860,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  99 => 
+  100 => 
   array (
-    'Caso' => '100',
     'DescDoenca' => 'powdery-mildew',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -3999,9 +3899,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  100 => 
+  101 => 
   array (
-    'Caso' => '101',
     'DescDoenca' => 'downy-mildew',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -4039,9 +3938,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  101 => 
+  102 => 
   array (
-    'Caso' => '102',
     'DescDoenca' => 'downy-mildew',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -4079,9 +3977,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  102 => 
+  103 => 
   array (
-    'Caso' => '103',
     'DescDoenca' => 'downy-mildew',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -4119,9 +4016,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  103 => 
+  104 => 
   array (
-    'Caso' => '104',
     'DescDoenca' => 'downy-mildew',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -4159,9 +4055,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  104 => 
+  105 => 
   array (
-    'Caso' => '105',
     'DescDoenca' => 'downy-mildew',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dna',
@@ -4186,46 +4081,6 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
-    'roots' => 'Norm',
-    'sclerotia' => 'Absent',
-    'seed' => 'Abnorm',
-    'seed-discolor' => 'Absent',
-    'seed-size' => 'Norm',
-    'seed-tmt' => 'none',
-    'severity' => 'pot-severe',
-    'shriveling' => 'Absent',
-    'stem' => 'Norm',
-    'stem-cankers' => 'Absent',
-    'temp' => 'lt-norm',
-  ),
-  105 => 
-  array (
-    'Caso' => '106',
-    'DescDoenca' => 'downy-mildew',
-    'area-damaged' => 'scattered',
-    'canker-lesion' => 'dna',
-    'crop-hist' => 'same-lst-sev-yrs',
-    'date' => 'Junho',
-    'external decay' => 'Absent',
-    'fruit spots' => 'Absent',
-    'fruiting-bodies' => 'Absent',
-    'fruit-pods' => 'Norm',
-    'germination' => '80-89%',
-    'hail' => 'Yes',
-    'int-discolor' => 'None',
-    'leaf-malf' => 'Absent',
-    'leaf-mild' => 'Lower-surf',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'yellow-halos',
-    'leafspot-size' => 'gt-1/8',
-    'leafspots-marg' => 'w-s-marg',
-    'leaves' => 'Abnorm',
-    'lodging' => 'Yes',
-    'mold-growth' => 'Present',
-    'mycelium' => 'Absent',
-    'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
     'precip' => 'gt-normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
@@ -4241,7 +4096,45 @@
   ),
   106 => 
   array (
-    'Caso' => '107',
+    'DescDoenca' => 'downy-mildew',
+    'area-damaged' => 'scattered',
+    'canker-lesion' => 'dna',
+    'crop-hist' => 'same-lst-sev-yrs',
+    'date' => 'Junho',
+    'external decay' => 'Absent',
+    'fruit spots' => 'Absent',
+    'fruiting-bodies' => 'Absent',
+    'fruit-pods' => 'Norm',
+    'germination' => '80-89%',
+    'hail' => 'Yes',
+    'int-discolor' => 'None',
+    'leaf-malf' => 'Absent',
+    'leaf-mild' => 'Lower-surf',
+    'leaf-shread' => 'absent',
+    'leafspots-halo' => 'yellow-halos',
+    'leafspot-size' => 'gt-1/8',
+    'leafspots-marg' => 'w-s-marg',
+    'leaves' => 'Abnorm',
+    'lodging' => 'Yes',
+    'mold-growth' => 'Present',
+    'mycelium' => 'Absent',
+    'plant-growth' => 'Norm',
+    'plant-stand' => 'lt-normal',
+    'precip' => 'gt-normal',
+    'roots' => 'Norm',
+    'sclerotia' => 'Absent',
+    'seed' => 'Abnorm',
+    'seed-discolor' => 'Absent',
+    'seed-size' => 'Norm',
+    'seed-tmt' => 'none',
+    'severity' => 'pot-severe',
+    'shriveling' => 'Absent',
+    'stem' => 'Norm',
+    'stem-cankers' => 'Absent',
+    'temp' => 'lt-norm',
+  ),
+  107 => 
+  array (
     'DescDoenca' => 'downy-mildew',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dna',
@@ -4279,9 +4172,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  107 => 
+  108 => 
   array (
-    'Caso' => '108',
     'DescDoenca' => 'downy-mildew',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -4319,9 +4211,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  108 => 
+  109 => 
   array (
-    'Caso' => '109',
     'DescDoenca' => 'downy-mildew',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -4359,9 +4250,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  109 => 
+  110 => 
   array (
-    'Caso' => '110',
     'DescDoenca' => 'downy-mildew',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -4399,9 +4289,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  110 => 
+  111 => 
   array (
-    'Caso' => '111',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -4439,9 +4328,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  111 => 
+  112 => 
   array (
-    'Caso' => '112',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -4457,46 +4345,6 @@
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
     'leaf-shread' => 'absent',
-    'leafspots-halo' => 'no-yellow-halos',
-    'leafspot-size' => 'gt-1/8',
-    'leafspots-marg' => 'w-s-marg',
-    'leaves' => 'Abnorm',
-    'lodging' => 'Yes',
-    'mold-growth' => 'Absent',
-    'mycelium' => 'Absent',
-    'plant-growth' => 'Norm',
-    'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
-    'roots' => 'Norm',
-    'sclerotia' => 'Absent',
-    'seed' => 'Norm',
-    'seed-discolor' => 'Absent',
-    'seed-size' => 'Norm',
-    'seed-tmt' => 'fungicida',
-    'severity' => 'pot-severe',
-    'shriveling' => 'Absent',
-    'stem' => 'Norm',
-    'stem-cankers' => 'Absent',
-    'temp' => 'norm',
-  ),
-  112 => 
-  array (
-    'Caso' => '113',
-    'DescDoenca' => 'brown-spot',
-    'area-damaged' => 'whole-field',
-    'canker-lesion' => 'dna',
-    'crop-hist' => 'same-lst-two-yrs',
-    'date' => 'Junho',
-    'external decay' => 'Absent',
-    'fruit spots' => 'Absent',
-    'fruiting-bodies' => 'Absent',
-    'fruit-pods' => 'Norm',
-    'germination' => '90-100%',
-    'hail' => 'Yes',
-    'int-discolor' => 'None',
-    'leaf-malf' => 'Absent',
-    'leaf-mild' => 'Absent',
-    'leaf-shread' => 'Present',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -4521,7 +4369,45 @@
   ),
   113 => 
   array (
-    'Caso' => '114',
+    'DescDoenca' => 'brown-spot',
+    'area-damaged' => 'whole-field',
+    'canker-lesion' => 'dna',
+    'crop-hist' => 'same-lst-two-yrs',
+    'date' => 'Junho',
+    'external decay' => 'Absent',
+    'fruit spots' => 'Absent',
+    'fruiting-bodies' => 'Absent',
+    'fruit-pods' => 'Norm',
+    'germination' => '90-100%',
+    'hail' => 'Yes',
+    'int-discolor' => 'None',
+    'leaf-malf' => 'Absent',
+    'leaf-mild' => 'Absent',
+    'leaf-shread' => 'Present',
+    'leafspots-halo' => 'no-yellow-halos',
+    'leafspot-size' => 'gt-1/8',
+    'leafspots-marg' => 'w-s-marg',
+    'leaves' => 'Abnorm',
+    'lodging' => 'Yes',
+    'mold-growth' => 'Absent',
+    'mycelium' => 'Absent',
+    'plant-growth' => 'Norm',
+    'plant-stand' => 'Normal',
+    'precip' => 'gt-normal',
+    'roots' => 'Norm',
+    'sclerotia' => 'Absent',
+    'seed' => 'Norm',
+    'seed-discolor' => 'Absent',
+    'seed-size' => 'Norm',
+    'seed-tmt' => 'fungicida',
+    'severity' => 'pot-severe',
+    'shriveling' => 'Absent',
+    'stem' => 'Norm',
+    'stem-cankers' => 'Absent',
+    'temp' => 'norm',
+  ),
+  114 => 
+  array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dna',
@@ -4559,9 +4445,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  114 => 
+  115 => 
   array (
-    'Caso' => '115',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -4599,9 +4484,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  115 => 
+  116 => 
   array (
-    'Caso' => '116',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -4639,9 +4523,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  116 => 
+  117 => 
   array (
-    'Caso' => '117',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -4679,9 +4562,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  117 => 
+  118 => 
   array (
-    'Caso' => '118',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -4719,9 +4601,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  118 => 
+  119 => 
   array (
-    'Caso' => '119',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -4759,9 +4640,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  119 => 
+  120 => 
   array (
-    'Caso' => '120',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -4799,9 +4679,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  120 => 
+  121 => 
   array (
-    'Caso' => '121',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'Brown',
@@ -4839,9 +4718,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  121 => 
+  122 => 
   array (
-    'Caso' => '122',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -4879,9 +4757,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  122 => 
+  123 => 
   array (
-    'Caso' => '123',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -4919,9 +4796,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  123 => 
+  124 => 
   array (
-    'Caso' => '124',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'Brown',
@@ -4959,9 +4835,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  124 => 
+  125 => 
   array (
-    'Caso' => '125',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -4999,9 +4874,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  125 => 
+  126 => 
   array (
-    'Caso' => '126',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'Brown',
@@ -5039,9 +4913,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  126 => 
+  127 => 
   array (
-    'Caso' => '127',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -5079,9 +4952,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  127 => 
+  128 => 
   array (
-    'Caso' => '128',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -5119,9 +4991,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  128 => 
+  129 => 
   array (
-    'Caso' => '129',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dna',
@@ -5159,9 +5030,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  129 => 
+  130 => 
   array (
-    'Caso' => '130',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dna',
@@ -5199,9 +5069,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  130 => 
+  131 => 
   array (
-    'Caso' => '131',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'Brown',
@@ -5239,9 +5108,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  131 => 
+  132 => 
   array (
-    'Caso' => '132',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -5279,9 +5147,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  132 => 
+  133 => 
   array (
-    'Caso' => '133',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'tan',
@@ -5319,9 +5186,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  133 => 
+  134 => 
   array (
-    'Caso' => '134',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -5359,9 +5225,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  134 => 
+  135 => 
   array (
-    'Caso' => '135',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -5399,9 +5264,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  135 => 
+  136 => 
   array (
-    'Caso' => '136',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -5439,9 +5303,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  136 => 
+  137 => 
   array (
-    'Caso' => '137',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'Brown',
@@ -5479,9 +5342,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  137 => 
+  138 => 
   array (
-    'Caso' => '138',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'Brown',
@@ -5519,9 +5381,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  138 => 
+  139 => 
   array (
-    'Caso' => '139',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'Brown',
@@ -5559,9 +5420,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  139 => 
+  140 => 
   array (
-    'Caso' => '140',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -5599,9 +5459,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  140 => 
+  141 => 
   array (
-    'Caso' => '141',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'tan',
@@ -5639,9 +5498,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  141 => 
+  142 => 
   array (
-    'Caso' => '142',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -5679,9 +5537,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  142 => 
+  143 => 
   array (
-    'Caso' => '143',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dna',
@@ -5719,9 +5576,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  143 => 
+  144 => 
   array (
-    'Caso' => '144',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'Brown',
@@ -5759,9 +5615,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  144 => 
+  145 => 
   array (
-    'Caso' => '145',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'tan',
@@ -5799,9 +5654,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  145 => 
+  146 => 
   array (
-    'Caso' => '146',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'Brown',
@@ -5839,9 +5693,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  146 => 
+  147 => 
   array (
-    'Caso' => '147',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -5879,9 +5732,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  147 => 
+  148 => 
   array (
-    'Caso' => '148',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'Brown',
@@ -5919,9 +5771,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  148 => 
+  149 => 
   array (
-    'Caso' => '149',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -5959,9 +5810,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  149 => 
+  150 => 
   array (
-    'Caso' => '150',
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'tan',
@@ -5999,9 +5849,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  150 => 
+  151 => 
   array (
-    'Caso' => '151',
     'DescDoenca' => 'bacterial-blight',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -6039,9 +5888,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  151 => 
+  152 => 
   array (
-    'Caso' => '152',
     'DescDoenca' => 'bacterial-blight',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -6079,9 +5927,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  152 => 
+  153 => 
   array (
-    'Caso' => '153',
     'DescDoenca' => 'bacterial-blight',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dna',
@@ -6119,9 +5966,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  153 => 
+  154 => 
   array (
-    'Caso' => '154',
     'DescDoenca' => 'bacterial-blight',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -6159,9 +6005,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  154 => 
+  155 => 
   array (
-    'Caso' => '155',
     'DescDoenca' => 'bacterial-blight',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -6199,9 +6044,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  155 => 
+  156 => 
   array (
-    'Caso' => '156',
     'DescDoenca' => 'bacterial-blight',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -6239,9 +6083,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  156 => 
+  157 => 
   array (
-    'Caso' => '157',
     'DescDoenca' => 'bacterial-blight',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dna',
@@ -6279,9 +6122,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  157 => 
+  158 => 
   array (
-    'Caso' => '158',
     'DescDoenca' => 'bacterial-blight',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -6319,9 +6161,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  158 => 
+  159 => 
   array (
-    'Caso' => '159',
     'DescDoenca' => 'bacterial-blight',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -6359,9 +6200,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  159 => 
+  160 => 
   array (
-    'Caso' => '160',
     'DescDoenca' => 'bacterial-blight',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -6399,9 +6239,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  160 => 
+  161 => 
   array (
-    'Caso' => '161',
     'DescDoenca' => 'bacterial-pustule',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -6439,9 +6278,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  161 => 
+  162 => 
   array (
-    'Caso' => '162',
     'DescDoenca' => 'bacterial-pustule',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -6479,9 +6317,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  162 => 
+  163 => 
   array (
-    'Caso' => '163',
     'DescDoenca' => 'bacterial-pustule',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dna',
@@ -6519,9 +6356,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  163 => 
+  164 => 
   array (
-    'Caso' => '164',
     'DescDoenca' => 'bacterial-pustule',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dna',
@@ -6559,9 +6395,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  164 => 
+  165 => 
   array (
-    'Caso' => '165',
     'DescDoenca' => 'bacterial-pustule',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -6599,9 +6434,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  165 => 
+  166 => 
   array (
-    'Caso' => '166',
     'DescDoenca' => 'bacterial-pustule',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dna',
@@ -6639,9 +6473,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  166 => 
+  167 => 
   array (
-    'Caso' => '167',
     'DescDoenca' => 'bacterial-pustule',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -6679,9 +6512,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  167 => 
+  168 => 
   array (
-    'Caso' => '168',
     'DescDoenca' => 'bacterial-pustule',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -6719,9 +6551,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  168 => 
+  169 => 
   array (
-    'Caso' => '169',
     'DescDoenca' => 'bacterial-pustule',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -6759,9 +6590,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  169 => 
+  170 => 
   array (
-    'Caso' => '170',
     'DescDoenca' => 'bacterial-pustule',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dna',
@@ -6799,9 +6629,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  170 => 
+  171 => 
   array (
-    'Caso' => '171',
     'DescDoenca' => 'purple-seed-stain',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'tan',
@@ -6839,9 +6668,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  171 => 
+  172 => 
   array (
-    'Caso' => '172',
     'DescDoenca' => 'purple-seed-stain',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'tan',
@@ -6879,9 +6707,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  172 => 
+  173 => 
   array (
-    'Caso' => '173',
     'DescDoenca' => 'purple-seed-stain',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'tan',
@@ -6919,9 +6746,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  173 => 
+  174 => 
   array (
-    'Caso' => '174',
     'DescDoenca' => 'purple-seed-stain',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'tan',
@@ -6959,9 +6785,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  174 => 
+  175 => 
   array (
-    'Caso' => '175',
     'DescDoenca' => 'purple-seed-stain',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'tan',
@@ -6999,9 +6824,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  175 => 
+  176 => 
   array (
-    'Caso' => '176',
     'DescDoenca' => 'purple-seed-stain',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'tan',
@@ -7039,9 +6863,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  176 => 
+  177 => 
   array (
-    'Caso' => '177',
     'DescDoenca' => 'purple-seed-stain',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'tan',
@@ -7079,9 +6902,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  177 => 
+  178 => 
   array (
-    'Caso' => '178',
     'DescDoenca' => 'purple-seed-stain',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'tan',
@@ -7119,9 +6941,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  178 => 
+  179 => 
   array (
-    'Caso' => '179',
     'DescDoenca' => 'purple-seed-stain',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'tan',
@@ -7159,9 +6980,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  179 => 
+  180 => 
   array (
-    'Caso' => '180',
     'DescDoenca' => 'purple-seed-stain',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'tan',
@@ -7199,9 +7019,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  180 => 
+  181 => 
   array (
-    'Caso' => '181',
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dk-brown-blk',
@@ -7239,9 +7058,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  181 => 
+  182 => 
   array (
-    'Caso' => '182',
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'Brown',
@@ -7279,9 +7097,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  182 => 
+  183 => 
   array (
-    'Caso' => '183',
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -7319,9 +7136,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  183 => 
+  184 => 
   array (
-    'Caso' => '184',
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'Brown',
@@ -7359,9 +7175,8 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'gt-norm',
   ),
-  184 => 
+  185 => 
   array (
-    'Caso' => '185',
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dk-brown-blk',
@@ -7399,9 +7214,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  185 => 
+  186 => 
   array (
-    'Caso' => '186',
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'Brown',
@@ -7439,9 +7253,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  186 => 
+  187 => 
   array (
-    'Caso' => '187',
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -7479,9 +7292,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  187 => 
+  188 => 
   array (
-    'Caso' => '188',
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -7519,9 +7331,8 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'norm',
   ),
-  188 => 
+  189 => 
   array (
-    'Caso' => '189',
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -7559,9 +7370,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  189 => 
+  190 => 
   array (
-    'Caso' => '190',
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -7599,9 +7409,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  190 => 
+  191 => 
   array (
-    'Caso' => '191',
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dk-brown-blk',
@@ -7639,9 +7448,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  191 => 
+  192 => 
   array (
-    'Caso' => '192',
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dk-brown-blk',
@@ -7679,9 +7487,8 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'norm',
   ),
-  192 => 
+  193 => 
   array (
-    'Caso' => '193',
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'Brown',
@@ -7719,9 +7526,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  193 => 
+  194 => 
   array (
-    'Caso' => '194',
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -7759,9 +7565,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  194 => 
+  195 => 
   array (
-    'Caso' => '195',
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -7799,9 +7604,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  195 => 
+  196 => 
   array (
-    'Caso' => '196',
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'Brown',
@@ -7839,9 +7643,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  196 => 
+  197 => 
   array (
-    'Caso' => '197',
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -7879,9 +7682,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  197 => 
+  198 => 
   array (
-    'Caso' => '198',
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dk-brown-blk',
@@ -7919,9 +7721,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  198 => 
+  199 => 
   array (
-    'Caso' => '199',
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dk-brown-blk',
@@ -7959,9 +7760,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  199 => 
+  200 => 
   array (
-    'Caso' => '200',
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -7999,9 +7799,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  200 => 
+  201 => 
   array (
-    'Caso' => '201',
     'DescDoenca' => 'phyllosticta-leaf-spot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -8039,9 +7838,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  201 => 
+  202 => 
   array (
-    'Caso' => '202',
     'DescDoenca' => 'phyllosticta-leaf-spot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -8079,9 +7877,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  202 => 
+  203 => 
   array (
-    'Caso' => '203',
     'DescDoenca' => 'phyllosticta-leaf-spot',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dna',
@@ -8119,9 +7916,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  203 => 
+  204 => 
   array (
-    'Caso' => '204',
     'DescDoenca' => 'phyllosticta-leaf-spot',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dna',
@@ -8159,9 +7955,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  204 => 
+  205 => 
   array (
-    'Caso' => '205',
     'DescDoenca' => 'phyllosticta-leaf-spot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -8199,9 +7994,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  205 => 
+  206 => 
   array (
-    'Caso' => '206',
     'DescDoenca' => 'phyllosticta-leaf-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -8239,9 +8033,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  206 => 
+  207 => 
   array (
-    'Caso' => '207',
     'DescDoenca' => 'phyllosticta-leaf-spot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -8279,9 +8072,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  207 => 
+  208 => 
   array (
-    'Caso' => '208',
     'DescDoenca' => 'phyllosticta-leaf-spot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -8319,9 +8111,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  208 => 
+  209 => 
   array (
-    'Caso' => '209',
     'DescDoenca' => 'phyllosticta-leaf-spot',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dna',
@@ -8359,9 +8150,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  209 => 
+  210 => 
   array (
-    'Caso' => '210',
     'DescDoenca' => 'phyllosticta-leaf-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -8399,9 +8189,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  210 => 
+  211 => 
   array (
-    'Caso' => '211',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -8439,9 +8228,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  211 => 
+  212 => 
   array (
-    'Caso' => '212',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -8479,9 +8267,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  212 => 
+  213 => 
   array (
-    'Caso' => '213',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dna',
@@ -8519,9 +8306,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  213 => 
+  214 => 
   array (
-    'Caso' => '214',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -8559,9 +8345,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  214 => 
+  215 => 
   array (
-    'Caso' => '215',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -8599,9 +8384,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  215 => 
+  216 => 
   array (
-    'Caso' => '216',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -8639,9 +8423,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  216 => 
+  217 => 
   array (
-    'Caso' => '217',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -8679,9 +8462,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  217 => 
+  218 => 
   array (
-    'Caso' => '218',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -8719,9 +8501,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  218 => 
+  219 => 
   array (
-    'Caso' => '219',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -8759,9 +8540,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  219 => 
+  220 => 
   array (
-    'Caso' => '220',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -8799,9 +8579,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  220 => 
+  221 => 
   array (
-    'Caso' => '221',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -8839,9 +8618,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  221 => 
+  222 => 
   array (
-    'Caso' => '222',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dna',
@@ -8879,9 +8657,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  222 => 
+  223 => 
   array (
-    'Caso' => '223',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -8919,9 +8696,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  223 => 
+  224 => 
   array (
-    'Caso' => '224',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -8959,9 +8735,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  224 => 
+  225 => 
   array (
-    'Caso' => '225',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dna',
@@ -8999,9 +8774,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  225 => 
+  226 => 
   array (
-    'Caso' => '226',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -9039,9 +8813,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  226 => 
+  227 => 
   array (
-    'Caso' => '227',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -9079,9 +8852,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  227 => 
+  228 => 
   array (
-    'Caso' => '228',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -9119,9 +8891,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  228 => 
+  229 => 
   array (
-    'Caso' => '229',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -9159,9 +8930,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  229 => 
+  230 => 
   array (
-    'Caso' => '230',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -9199,9 +8969,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  230 => 
+  231 => 
   array (
-    'Caso' => '231',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -9239,9 +9008,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  231 => 
+  232 => 
   array (
-    'Caso' => '232',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -9279,9 +9047,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  232 => 
+  233 => 
   array (
-    'Caso' => '233',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -9319,9 +9086,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  233 => 
+  234 => 
   array (
-    'Caso' => '234',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -9359,9 +9125,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  234 => 
+  235 => 
   array (
-    'Caso' => '235',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -9399,9 +9164,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  235 => 
+  236 => 
   array (
-    'Caso' => '236',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -9439,9 +9203,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  236 => 
+  237 => 
   array (
-    'Caso' => '237',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -9479,9 +9242,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  237 => 
+  238 => 
   array (
-    'Caso' => '238',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -9492,46 +9254,6 @@
     'fruiting-bodies' => 'Absent',
     'fruit-pods' => 'Norm',
     'germination' => '90-100%',
-    'hail' => 'Yes',
-    'int-discolor' => 'None',
-    'leaf-malf' => 'Absent',
-    'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'no-yellow-halos',
-    'leafspot-size' => 'gt-1/8',
-    'leafspots-marg' => 'w-s-marg',
-    'leaves' => 'Abnorm',
-    'lodging' => 'Yes',
-    'mold-growth' => 'Absent',
-    'mycelium' => 'Absent',
-    'plant-growth' => 'Norm',
-    'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
-    'roots' => 'Norm',
-    'sclerotia' => 'Absent',
-    'seed' => 'Norm',
-    'seed-discolor' => 'Absent',
-    'seed-size' => 'Norm',
-    'seed-tmt' => 'none',
-    'severity' => 'pot-severe',
-    'shriveling' => 'Absent',
-    'stem' => 'Norm',
-    'stem-cankers' => 'Absent',
-    'temp' => 'gt-norm',
-  ),
-  238 => 
-  array (
-    'Caso' => '239',
-    'DescDoenca' => 'alternarialeaf-spot',
-    'area-damaged' => 'whole-field',
-    'canker-lesion' => 'dna',
-    'crop-hist' => 'same-lst-two-yrs',
-    'date' => 'Setembro',
-    'external decay' => 'Absent',
-    'fruit spots' => 'Absent',
-    'fruiting-bodies' => 'Absent',
-    'fruit-pods' => 'Norm',
-    'germination' => '80-89%',
     'hail' => 'Yes',
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
@@ -9561,7 +9283,45 @@
   ),
   239 => 
   array (
-    'Caso' => '240',
+    'DescDoenca' => 'alternarialeaf-spot',
+    'area-damaged' => 'whole-field',
+    'canker-lesion' => 'dna',
+    'crop-hist' => 'same-lst-two-yrs',
+    'date' => 'Setembro',
+    'external decay' => 'Absent',
+    'fruit spots' => 'Absent',
+    'fruiting-bodies' => 'Absent',
+    'fruit-pods' => 'Norm',
+    'germination' => '80-89%',
+    'hail' => 'Yes',
+    'int-discolor' => 'None',
+    'leaf-malf' => 'Absent',
+    'leaf-mild' => 'Absent',
+    'leaf-shread' => 'absent',
+    'leafspots-halo' => 'no-yellow-halos',
+    'leafspot-size' => 'gt-1/8',
+    'leafspots-marg' => 'w-s-marg',
+    'leaves' => 'Abnorm',
+    'lodging' => 'Yes',
+    'mold-growth' => 'Absent',
+    'mycelium' => 'Absent',
+    'plant-growth' => 'Norm',
+    'plant-stand' => 'Normal',
+    'precip' => 'gt-normal',
+    'roots' => 'Norm',
+    'sclerotia' => 'Absent',
+    'seed' => 'Norm',
+    'seed-discolor' => 'Absent',
+    'seed-size' => 'Norm',
+    'seed-tmt' => 'none',
+    'severity' => 'pot-severe',
+    'shriveling' => 'Absent',
+    'stem' => 'Norm',
+    'stem-cankers' => 'Absent',
+    'temp' => 'gt-norm',
+  ),
+  240 => 
+  array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dna',
@@ -9599,9 +9359,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  240 => 
+  241 => 
   array (
-    'Caso' => '241',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -9639,9 +9398,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  241 => 
+  242 => 
   array (
-    'Caso' => '242',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -9679,9 +9437,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  242 => 
+  243 => 
   array (
-    'Caso' => '243',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -9719,9 +9476,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  243 => 
+  244 => 
   array (
-    'Caso' => '244',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -9759,9 +9515,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  244 => 
+  245 => 
   array (
-    'Caso' => '245',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -9799,9 +9554,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  245 => 
+  246 => 
   array (
-    'Caso' => '246',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -9839,9 +9593,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  246 => 
+  247 => 
   array (
-    'Caso' => '247',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -9879,9 +9632,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  247 => 
+  248 => 
   array (
-    'Caso' => '248',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -9919,9 +9671,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  248 => 
+  249 => 
   array (
-    'Caso' => '249',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dna',
@@ -9959,9 +9710,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  249 => 
+  250 => 
   array (
-    'Caso' => '250',
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -9999,9 +9749,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  250 => 
+  251 => 
   array (
-    'Caso' => '251',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dk-brown-blk',
@@ -10039,9 +9788,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  251 => 
+  252 => 
   array (
-    'Caso' => '252',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -10079,9 +9827,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  252 => 
+  253 => 
   array (
-    'Caso' => '253',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'Brown',
@@ -10119,9 +9866,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  253 => 
+  254 => 
   array (
-    'Caso' => '254',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -10159,9 +9905,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  254 => 
+  255 => 
   array (
-    'Caso' => '255',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dk-brown-blk',
@@ -10199,9 +9944,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  255 => 
+  256 => 
   array (
-    'Caso' => '256',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -10239,9 +9983,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  256 => 
+  257 => 
   array (
-    'Caso' => '257',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dk-brown-blk',
@@ -10279,9 +10022,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  257 => 
+  258 => 
   array (
-    'Caso' => '258',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -10319,9 +10061,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  258 => 
+  259 => 
   array (
-    'Caso' => '259',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -10359,9 +10100,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  259 => 
+  260 => 
   array (
-    'Caso' => '260',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dk-brown-blk',
@@ -10399,9 +10139,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  260 => 
+  261 => 
   array (
-    'Caso' => '261',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -10439,9 +10178,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  261 => 
+  262 => 
   array (
-    'Caso' => '262',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -10479,9 +10217,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  262 => 
+  263 => 
   array (
-    'Caso' => '263',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -10519,9 +10256,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  263 => 
+  264 => 
   array (
-    'Caso' => '264',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'Brown',
@@ -10559,9 +10295,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  264 => 
+  265 => 
   array (
-    'Caso' => '265',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -10599,9 +10334,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  265 => 
+  266 => 
   array (
-    'Caso' => '266',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'Brown',
@@ -10639,9 +10373,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  266 => 
+  267 => 
   array (
-    'Caso' => '267',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -10679,9 +10412,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  267 => 
+  268 => 
   array (
-    'Caso' => '268',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -10719,9 +10451,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  268 => 
+  269 => 
   array (
-    'Caso' => '269',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -10759,9 +10490,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  269 => 
+  270 => 
   array (
-    'Caso' => '270',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'Brown',
@@ -10799,9 +10529,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  270 => 
+  271 => 
   array (
-    'Caso' => '271',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -10839,9 +10568,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  271 => 
+  272 => 
   array (
-    'Caso' => '272',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dk-brown-blk',
@@ -10879,9 +10607,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  272 => 
+  273 => 
   array (
-    'Caso' => '273',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -10919,9 +10646,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  273 => 
+  274 => 
   array (
-    'Caso' => '274',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'Brown',
@@ -10959,9 +10685,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  274 => 
+  275 => 
   array (
-    'Caso' => '275',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -10999,9 +10724,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  275 => 
+  276 => 
   array (
-    'Caso' => '276',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dna',
@@ -11039,9 +10763,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  276 => 
+  277 => 
   array (
-    'Caso' => '277',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -11079,9 +10802,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  277 => 
+  278 => 
   array (
-    'Caso' => '278',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dna',
@@ -11119,9 +10841,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  278 => 
+  279 => 
   array (
-    'Caso' => '279',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dk-brown-blk',
@@ -11159,9 +10880,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  279 => 
+  280 => 
   array (
-    'Caso' => '280',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dk-brown-blk',
@@ -11199,9 +10919,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  280 => 
+  281 => 
   array (
-    'Caso' => '281',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dk-brown-blk',
@@ -11239,9 +10958,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  281 => 
+  282 => 
   array (
-    'Caso' => '282',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -11279,9 +10997,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  282 => 
+  283 => 
   array (
-    'Caso' => '283',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'Brown',
@@ -11319,9 +11036,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  283 => 
+  284 => 
   array (
-    'Caso' => '284',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'dna',
@@ -11359,9 +11075,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  284 => 
+  285 => 
   array (
-    'Caso' => '285',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dna',
@@ -11394,46 +11109,6 @@
     'seed-size' => 'Norm',
     'seed-tmt' => 'none',
     'severity' => 'Minor',
-    'shriveling' => 'Absent',
-    'stem' => 'Norm',
-    'stem-cankers' => 'Absent',
-    'temp' => 'norm',
-  ),
-  285 => 
-  array (
-    'Caso' => '286',
-    'DescDoenca' => 'frog-eye-leaf-spot',
-    'area-damaged' => 'upper-areas',
-    'canker-lesion' => 'dna',
-    'crop-hist' => 'same-1st-yr',
-    'date' => 'Setembro',
-    'external decay' => 'Absent',
-    'fruit spots' => 'Absent',
-    'fruiting-bodies' => 'Absent',
-    'fruit-pods' => 'Norm',
-    'germination' => 'lt-80%',
-    'hail' => 'Yes',
-    'int-discolor' => 'None',
-    'leaf-malf' => 'Absent',
-    'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'no-yellow-halos',
-    'leafspot-size' => 'gt-1/8',
-    'leafspots-marg' => 'w-s-marg',
-    'leaves' => 'Abnorm',
-    'lodging' => 'Yes',
-    'mold-growth' => 'Absent',
-    'mycelium' => 'Absent',
-    'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
-    'roots' => 'Norm',
-    'sclerotia' => 'Absent',
-    'seed' => 'Norm',
-    'seed-discolor' => 'Absent',
-    'seed-size' => 'Norm',
-    'seed-tmt' => 'none',
-    'severity' => 'pot-severe',
     'shriveling' => 'Absent',
     'stem' => 'Norm',
     'stem-cankers' => 'Absent',
@@ -11441,7 +11116,45 @@
   ),
   286 => 
   array (
-    'Caso' => '287',
+    'DescDoenca' => 'frog-eye-leaf-spot',
+    'area-damaged' => 'upper-areas',
+    'canker-lesion' => 'dna',
+    'crop-hist' => 'same-1st-yr',
+    'date' => 'Setembro',
+    'external decay' => 'Absent',
+    'fruit spots' => 'Absent',
+    'fruiting-bodies' => 'Absent',
+    'fruit-pods' => 'Norm',
+    'germination' => 'lt-80%',
+    'hail' => 'Yes',
+    'int-discolor' => 'None',
+    'leaf-malf' => 'Absent',
+    'leaf-mild' => 'Absent',
+    'leaf-shread' => 'absent',
+    'leafspots-halo' => 'no-yellow-halos',
+    'leafspot-size' => 'gt-1/8',
+    'leafspots-marg' => 'w-s-marg',
+    'leaves' => 'Abnorm',
+    'lodging' => 'Yes',
+    'mold-growth' => 'Absent',
+    'mycelium' => 'Absent',
+    'plant-growth' => 'Norm',
+    'plant-stand' => 'lt-normal',
+    'precip' => 'gt-normal',
+    'roots' => 'Norm',
+    'sclerotia' => 'Absent',
+    'seed' => 'Norm',
+    'seed-discolor' => 'Absent',
+    'seed-size' => 'Norm',
+    'seed-tmt' => 'none',
+    'severity' => 'pot-severe',
+    'shriveling' => 'Absent',
+    'stem' => 'Norm',
+    'stem-cankers' => 'Absent',
+    'temp' => 'norm',
+  ),
+  287 => 
+  array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dk-brown-blk',
@@ -11479,9 +11192,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  287 => 
+  288 => 
   array (
-    'Caso' => '288',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'dk-brown-blk',
@@ -11519,9 +11231,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  288 => 
+  289 => 
   array (
-    'Caso' => '289',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dk-brown-blk',
@@ -11559,9 +11270,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  289 => 
+  290 => 
   array (
-    'Caso' => '290',
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dk-brown-blk',
@@ -11599,9 +11309,8 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  290 => 
+  291 => 
   array (
-    'Caso' => '291',
     'DescDoenca' => 'diaporthe-pod-&-stem-blight',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -11639,9 +11348,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  291 => 
+  292 => 
   array (
-    'Caso' => '292',
     'DescDoenca' => 'diaporthe-pod-&-stem-blight',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -11679,9 +11387,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  292 => 
+  293 => 
   array (
-    'Caso' => '293',
     'DescDoenca' => 'diaporthe-pod-&-stem-blight',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -11719,9 +11426,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  293 => 
+  294 => 
   array (
-    'Caso' => '294',
     'DescDoenca' => 'diaporthe-pod-&-stem-blight',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'dna',
@@ -11759,9 +11465,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  294 => 
+  295 => 
   array (
-    'Caso' => '295',
     'DescDoenca' => 'diaporthe-pod-&-stem-blight',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -11799,9 +11504,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  295 => 
+  296 => 
   array (
-    'Caso' => '296',
     'DescDoenca' => 'diaporthe-pod-&-stem-blight',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'dna',
@@ -11839,9 +11543,8 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  296 => 
+  297 => 
   array (
-    'Caso' => '297',
     'DescDoenca' => 'cyst-nematode',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'Desconhecido',
@@ -11879,9 +11582,8 @@
     'stem-cankers' => 'Desconhecido',
     'temp' => 'Desconhecido',
   ),
-  297 => 
+  298 => 
   array (
-    'Caso' => '298',
     'DescDoenca' => 'cyst-nematode',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'Desconhecido',
@@ -11919,9 +11621,8 @@
     'stem-cankers' => 'Desconhecido',
     'temp' => 'Desconhecido',
   ),
-  298 => 
+  299 => 
   array (
-    'Caso' => '299',
     'DescDoenca' => 'cyst-nematode',
     'area-damaged' => 'upper-areas',
     'canker-lesion' => 'Desconhecido',
@@ -11959,49 +11660,8 @@
     'stem-cankers' => 'Desconhecido',
     'temp' => 'Desconhecido',
   ),
-  299 => 
-  array (
-    'Caso' => '300',
-    'DescDoenca' => 'cyst-nematode',
-    'area-damaged' => 'low-areas',
-    'canker-lesion' => 'Desconhecido',
-    'crop-hist' => 'same-lst-two-yrs',
-    'date' => 'Julho',
-    'external decay' => 'Desconhecido',
-    'fruit spots' => 'Desconhecido',
-    'fruiting-bodies' => 'Desconhecido',
-    'fruit-pods' => 'few-present',
-    'germination' => 'Desconhecido',
-    'hail' => 'Desconhecido',
-    'int-discolor' => 'Desconhecido',
-    'leaf-malf' => 'Desconhecido',
-    'leaf-mild' => 'Desconhecido',
-    'leaf-shread' => 'Desconhecido',
-    'leafspots-halo' => 'Desconhecido',
-    'leafspot-size' => 'Desconhecido',
-    'leafspots-marg' => 'Desconhecido',
-    'leaves' => 'Abnorm',
-    'lodging' => 'Desconhecido',
-    'mold-growth' => 'Absent',
-    'mycelium' => 'Desconhecido',
-    'plant-growth' => 'Abnorm',
-    'plant-stand' => 'Desconhecido',
-    'precip' => 'Desconhecido',
-    'roots' => 'galls-cysts',
-    'sclerotia' => 'Desconhecido',
-    'seed' => 'Abnorm',
-    'seed-discolor' => 'Desconhecido',
-    'seed-size' => 'lt-norm',
-    'seed-tmt' => 'Desconhecido',
-    'severity' => 'Desconhecido',
-    'shriveling' => 'Desconhecido',
-    'stem' => 'Norm',
-    'stem-cankers' => 'Desconhecido',
-    'temp' => 'Desconhecido',
-  ),
   300 => 
   array (
-    'Caso' => '301',
     'DescDoenca' => 'cyst-nematode',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'Desconhecido',
@@ -12041,7 +11701,45 @@
   ),
   301 => 
   array (
-    'Caso' => '302',
+    'DescDoenca' => 'cyst-nematode',
+    'area-damaged' => 'low-areas',
+    'canker-lesion' => 'Desconhecido',
+    'crop-hist' => 'same-lst-two-yrs',
+    'date' => 'Julho',
+    'external decay' => 'Desconhecido',
+    'fruit spots' => 'Desconhecido',
+    'fruiting-bodies' => 'Desconhecido',
+    'fruit-pods' => 'few-present',
+    'germination' => 'Desconhecido',
+    'hail' => 'Desconhecido',
+    'int-discolor' => 'Desconhecido',
+    'leaf-malf' => 'Desconhecido',
+    'leaf-mild' => 'Desconhecido',
+    'leaf-shread' => 'Desconhecido',
+    'leafspots-halo' => 'Desconhecido',
+    'leafspot-size' => 'Desconhecido',
+    'leafspots-marg' => 'Desconhecido',
+    'leaves' => 'Abnorm',
+    'lodging' => 'Desconhecido',
+    'mold-growth' => 'Absent',
+    'mycelium' => 'Desconhecido',
+    'plant-growth' => 'Abnorm',
+    'plant-stand' => 'Desconhecido',
+    'precip' => 'Desconhecido',
+    'roots' => 'galls-cysts',
+    'sclerotia' => 'Desconhecido',
+    'seed' => 'Abnorm',
+    'seed-discolor' => 'Desconhecido',
+    'seed-size' => 'lt-norm',
+    'seed-tmt' => 'Desconhecido',
+    'severity' => 'Desconhecido',
+    'shriveling' => 'Desconhecido',
+    'stem' => 'Norm',
+    'stem-cankers' => 'Desconhecido',
+    'temp' => 'Desconhecido',
+  ),
+  302 => 
+  array (
     'DescDoenca' => 'cyst-nematode',
     'area-damaged' => 'low-areas',
     'canker-lesion' => 'Desconhecido',
@@ -12079,9 +11777,8 @@
     'stem-cankers' => 'Desconhecido',
     'temp' => 'Desconhecido',
   ),
-  302 => 
+  303 => 
   array (
-    'Caso' => '303',
     'DescDoenca' => '2-4-d-injury',
     'area-damaged' => 'Desconhecido',
     'canker-lesion' => 'Desconhecido',
@@ -12119,9 +11816,8 @@
     'stem-cankers' => 'Desconhecido',
     'temp' => 'Desconhecido',
   ),
-  303 => 
+  304 => 
   array (
-    'Caso' => '304',
     'DescDoenca' => 'herbicide-injury',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'Desconhecido',
@@ -12159,9 +11855,8 @@
     'stem-cankers' => 'Desconhecido',
     'temp' => 'lt-norm',
   ),
-  304 => 
+  305 => 
   array (
-    'Caso' => '305',
     'DescDoenca' => 'herbicide-injury',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'Desconhecido',
@@ -12199,9 +11894,8 @@
     'stem-cankers' => 'Desconhecido',
     'temp' => 'lt-norm',
   ),
-  305 => 
+  306 => 
   array (
-    'Caso' => '306',
     'DescDoenca' => 'herbicide-injury',
     'area-damaged' => 'scattered',
     'canker-lesion' => 'Desconhecido',
@@ -12239,9 +11933,8 @@
     'stem-cankers' => 'Desconhecido',
     'temp' => 'lt-norm',
   ),
-  306 => 
+  307 => 
   array (
-    'Caso' => '307',
     'DescDoenca' => 'herbicide-injury',
     'area-damaged' => 'whole-field',
     'canker-lesion' => 'Desconhecido',
