@@ -40,7 +40,7 @@ while (($line = fgetcsv($file)) !== FALSE){
 fclose($file);
 // ============================================================================
 
-//print_r($weights);
+// print_r($weights['hail']);
 
 //Leitura de 'valores de atributos' ===========================================
 $file = fopen('./database/valores_de_atributos.csv', 'r');
@@ -57,13 +57,27 @@ fclose($file);
 // ============================================================================
 
 //print_r($attributes);
+function maximum($normal_case, $attr){
+    $normal_values = array();
+    $values = array();
+    foreach ($normal_case as $key => $value) {
+      if ($key == 'DescDoenca')
+        continue;
+      $normal_values[] = $attr[$key][$value];
+    }
+    for ($i=0; $i < 35; $i++) {
+        print_r($normal_values[$i]);
+    }
+}
 
-function similarity($normal_case, $problem_case, $attr)
+maximum($cases[1], $attributes);
+
+function similarity($cases, $normal_case, $problem_case, $attr)
 {
-  foreach($cases as $key => $value)
-  {
-    print_r($key . " || " . $value);
-  }
+  // foreach($cases as $key => $value)
+  // {
+  //   print_r($key . " || " . $value);
+  // }
 
   $normal_values = array();
   foreach ($normal_case as $key => $value) {
@@ -79,18 +93,17 @@ function similarity($normal_case, $problem_case, $attr)
     $problem_values[] = $attr[$key][$value];
   }
 
+  print_r($normal_values);
 
   $total = 0;
-
-  for ($i = 0; $i < 35; $i++)
-  {
+  for ($i = 0; $i < 35; $i++){
     $total += ( 1 - abs( $normal_values[$i] - $problem_values[$i] ) / 1 );
   }
   return $total;
 }
 
 
-echo similarity($cases[1], $cases[17], $attributes);
+// echo similarity($cases, $cases[1], $cases[17], $attributes);
 echo "\n";
 
 ?>
