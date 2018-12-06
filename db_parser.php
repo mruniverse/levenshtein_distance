@@ -37,6 +37,8 @@ $weights = array();
 while (($line = fgetcsv($file)) !== FALSE){
   $weights[$line[0]] = $line[1];
 }
+
+echo $weights['date'];
 fclose($file);
 // ============================================================================
 
@@ -56,9 +58,10 @@ while (($line = fgetcsv($file)) !== FALSE){
 fclose($file);
 // ============================================================================
 
-// print_r($attributes['date']);
-// print_r($cases[5]['date']);
+// print_r($attributes['leaf-mild']);
+// print_r($cases[12]['leaf-mild']);
 
+// ============================================================================
 function get_case_values($normal_case, $attributes){
     $normal_values = array();
 
@@ -70,67 +73,83 @@ function get_case_values($normal_case, $attributes){
 
     return $normal_values;
 }
+// print_r(get_case_values($cases[1], $attributes));
 
-function get_extreme_values($cases, $attributes){
-    $case_values = array();
-    $size = sizeof($cases);
+// ============================================================================
+function get_extreme_values($cases, $attributes, $choice, $att_number){
+    // $att_number = number of the attribute of the column, from 0 to 35.
+    $size = sizeof($cases); //How many cases there are on the casebase.
     $max = $min = 0;
 
-    for ($i=1; $i < $size + 1; $i++) {
+    $case_values = array();
+    for ($i=1; $i <= $size; $i++) {
         $case_values[] = get_case_values($cases[$i], $attributes);
     }
 
-    for ($i=1; $i < $size + 1; $i++) {
-        if($case_values[$i][0] == "Sim" || $case_values[$i][0] == "Não"){
+    for ($i=1; $i <= $size; $i++) {
+        if($case_values[$i][$att_number] == "Sim" || $case_values[$i][$att_number] == "Não"){
             break;
         }
-        if($case_values[$i][0] > $max){
-            $max = $case_values[$i][0];
+        if($case_values[$i][$att_number] > $max){
+            $max = $case_values[$i][$att_number];
         }
-        if($case_values[$i][0] < $min){
-            $min = $case_values[$i][0];
+        if($case_values[$i][$att_number] < $min){
+            $min = $case_values[$i][$att_number];
         }
     }
-
-    echo 'Max:' . $max . 'Min:' . $min;
+    // echo 'Max:' . $max . 'Min:' . $min;
     // print_r($case_values[200][0]);
+    if($choice == "max"){
+        return $max;
+    }
+    else if($choice == "min"){
+        return $min;
+    }
+    else{
+        return "Please, coose between 'max' and 'min'.";
+    }
+}
+// ============================================================================
+// echo get_extreme_values($cases, $attributes, "max", 3);
+
+
+
+// ============================================================================
+function similarity($cases, $normal_case, $problem_case, $attr){
+  // foreach($cases as $key => $value)
+  // {
+  //   print_r($key . " || " . $value);
+  // }
+
+  $normal_values = array();
+  foreach ($normal_case as $key => $value) {
+    if ($key == 'DescDoenca')
+      continue;
+    $normal_values[] = $attr[$key][$value];
+  }
+
+  $problem_values = array();
+  foreach ($problem_case as $key => $value) {
+    if ($key == 'DescDoenca')
+      continue;
+    $problem_values[] = $attr[$key][$value];
+  }
+
+  // print_r($normal_values);
+
+  $total = 0;
+  for ($i = 0; $i < 35; $i++){
+      if(get_extreme_values($cases, $attr, "max", $i) == 0){
+          // print_r($cases[1][$attr[$i]]);
+          echo get_extreme_values($cases, $attr, "max", $i);
+          echo $i . "\n";
+      }
+    // $total += (1 - abs( $normal_values[$i] - $problem_values[$i] ) / (get_extreme_values($cases, $attr, "max", $i) - get_extreme_values($cases, $attr, "min", $i)));
+  }
+  // return $total;
 }
 
-get_max_values($cases, $attributes);
 
-
-// get_case_values($cases[1], $attributes);
-
-// function similarity($cases, $normal_case, $problem_case, $attr){
-//   // foreach($cases as $key => $value)
-//   // {
-//   //   print_r($key . " || " . $value);
-//   // }
-//
-//   $normal_values = array();
-//   foreach ($normal_case as $key => $value) {
-//     if ($key == 'DescDoenca')
-//       continue;
-//     $normal_values[] = $attr[$key][$value];
-//   }
-//
-//   $problem_values = array();
-//   foreach ($problem_case as $key => $value) {
-//     if ($key == 'DescDoenca')
-//       continue;
-//     $problem_values[] = $attr[$key][$value];
-//   }
-//
-//   print_r($normal_values);
-//
-//   $total = 0;
-//   for ($i = 0; $i < 35; $i++){
-//     $total += ( 1 - abs( $normal_values[$i] - $problem_values[$i] ) / 1 );
-//   }
-//   return $total;
-// }
-
-
-// echo similarity($cases, $cases[1], $cases[17], $attributes);
+echo similarity($cases, $cases[1], $cases[17], $attributes);
 echo "\n";
 ?>

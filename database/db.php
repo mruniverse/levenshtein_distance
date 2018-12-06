@@ -1,5 +1,5 @@
 <?php $cases =array (
-  1 => 
+  1 =>
   array (
     'DescDoenca' => 'diaporthe-stem-canker',
     'area-damaged' => 'low-areas',
@@ -15,8 +15,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -25,7 +25,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -38,7 +38,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  2 => 
+  2 =>
   array (
     'DescDoenca' => 'diaporthe-stem-canker',
     'area-damaged' => 'scattered',
@@ -54,8 +54,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -64,7 +64,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -77,7 +77,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  3 => 
+  3 =>
   array (
     'DescDoenca' => 'diaporthe-stem-canker',
     'area-damaged' => 'scattered',
@@ -93,8 +93,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -103,7 +103,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -116,7 +116,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  4 => 
+  4 =>
   array (
     'DescDoenca' => 'diaporthe-stem-canker',
     'area-damaged' => 'scattered',
@@ -132,8 +132,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -142,7 +142,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -155,7 +155,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  5 => 
+  5 =>
   array (
     'DescDoenca' => 'diaporthe-stem-canker',
     'area-damaged' => 'scattered',
@@ -171,8 +171,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -181,7 +181,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -194,7 +194,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  6 => 
+  6 =>
   array (
     'DescDoenca' => 'diaporthe-stem-canker',
     'area-damaged' => 'scattered',
@@ -210,8 +210,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -220,7 +220,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -233,7 +233,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  7 => 
+  7 =>
   array (
     'DescDoenca' => 'diaporthe-stem-canker',
     'area-damaged' => 'scattered',
@@ -249,8 +249,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -259,7 +259,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -272,7 +272,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  8 => 
+  8 =>
   array (
     'DescDoenca' => 'diaporthe-stem-canker',
     'area-damaged' => 'scattered',
@@ -288,8 +288,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -298,7 +298,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -311,7 +311,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  9 => 
+  9 =>
   array (
     'DescDoenca' => 'diaporthe-stem-canker',
     'area-damaged' => 'scattered',
@@ -327,8 +327,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -337,7 +337,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -350,7 +350,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  10 => 
+  10 =>
   array (
     'DescDoenca' => 'diaporthe-stem-canker',
     'area-damaged' => 'scattered',
@@ -366,8 +366,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -376,7 +376,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -389,7 +389,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  11 => 
+  11 =>
   array (
     'DescDoenca' => 'charcoal-rot',
     'area-damaged' => 'whole-field',
@@ -405,8 +405,8 @@
     'int-discolor' => 'Black',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -415,7 +415,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Present',
     'seed' => 'Norm',
@@ -428,7 +428,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  12 => 
+  12 =>
   array (
     'DescDoenca' => 'charcoal-rot',
     'area-damaged' => 'whole-field',
@@ -444,8 +444,8 @@
     'int-discolor' => 'Black',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -454,7 +454,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Present',
     'seed' => 'Norm',
@@ -467,7 +467,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  13 => 
+  13 =>
   array (
     'DescDoenca' => 'charcoal-rot',
     'area-damaged' => 'upper-areas',
@@ -483,8 +483,8 @@
     'int-discolor' => 'Black',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -493,7 +493,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Present',
     'seed' => 'Norm',
@@ -506,7 +506,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  14 => 
+  14 =>
   array (
     'DescDoenca' => 'charcoal-rot',
     'area-damaged' => 'whole-field',
@@ -522,8 +522,8 @@
     'int-discolor' => 'Black',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -532,7 +532,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Present',
     'seed' => 'Norm',
@@ -545,7 +545,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  15 => 
+  15 =>
   array (
     'DescDoenca' => 'charcoal-rot',
     'area-damaged' => 'whole-field',
@@ -561,8 +561,8 @@
     'int-discolor' => 'Black',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -571,7 +571,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Present',
     'seed' => 'Norm',
@@ -584,7 +584,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  16 => 
+  16 =>
   array (
     'DescDoenca' => 'charcoal-rot',
     'area-damaged' => 'whole-field',
@@ -600,8 +600,8 @@
     'int-discolor' => 'Black',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -610,7 +610,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Present',
     'seed' => 'Norm',
@@ -623,7 +623,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  17 => 
+  17 =>
   array (
     'DescDoenca' => 'charcoal-rot',
     'area-damaged' => 'upper-areas',
@@ -639,8 +639,8 @@
     'int-discolor' => 'Black',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -649,7 +649,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Present',
     'seed' => 'Norm',
@@ -662,7 +662,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  18 => 
+  18 =>
   array (
     'DescDoenca' => 'charcoal-rot',
     'area-damaged' => 'upper-areas',
@@ -678,8 +678,8 @@
     'int-discolor' => 'Black',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -688,7 +688,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Present',
     'seed' => 'Norm',
@@ -701,7 +701,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  19 => 
+  19 =>
   array (
     'DescDoenca' => 'charcoal-rot',
     'area-damaged' => 'upper-areas',
@@ -717,8 +717,8 @@
     'int-discolor' => 'Black',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -727,7 +727,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Present',
     'seed' => 'Norm',
@@ -740,7 +740,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  20 => 
+  20 =>
   array (
     'DescDoenca' => 'charcoal-rot',
     'area-damaged' => 'upper-areas',
@@ -756,8 +756,8 @@
     'int-discolor' => 'Black',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -766,7 +766,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Present',
     'seed' => 'Norm',
@@ -779,7 +779,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  21 => 
+  21 =>
   array (
     'DescDoenca' => 'rhizoctonia-root-rot',
     'area-damaged' => 'low-areas',
@@ -795,8 +795,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Norm',
@@ -804,8 +804,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Present',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -818,7 +818,7 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'lt-norm',
   ),
-  22 => 
+  22 =>
   array (
     'DescDoenca' => 'rhizoctonia-root-rot',
     'area-damaged' => 'low-areas',
@@ -834,8 +834,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Norm',
@@ -843,8 +843,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -857,7 +857,7 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'lt-norm',
   ),
-  23 => 
+  23 =>
   array (
     'DescDoenca' => 'rhizoctonia-root-rot',
     'area-damaged' => 'low-areas',
@@ -873,8 +873,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Norm',
@@ -883,7 +883,7 @@
     'mycelium' => 'Present',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -896,7 +896,7 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'lt-norm',
   ),
-  24 => 
+  24 =>
   array (
     'DescDoenca' => 'rhizoctonia-root-rot',
     'area-damaged' => 'low-areas',
@@ -912,8 +912,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Norm',
@@ -921,8 +921,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -935,7 +935,7 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'lt-norm',
   ),
-  25 => 
+  25 =>
   array (
     'DescDoenca' => 'rhizoctonia-root-rot',
     'area-damaged' => 'low-areas',
@@ -951,8 +951,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Norm',
@@ -960,8 +960,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -974,7 +974,7 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'lt-norm',
   ),
-  26 => 
+  26 =>
   array (
     'DescDoenca' => 'rhizoctonia-root-rot',
     'area-damaged' => 'low-areas',
@@ -990,8 +990,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Norm',
@@ -999,8 +999,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -1013,7 +1013,7 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'lt-norm',
   ),
-  27 => 
+  27 =>
   array (
     'DescDoenca' => 'rhizoctonia-root-rot',
     'area-damaged' => 'low-areas',
@@ -1029,8 +1029,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Norm',
@@ -1038,8 +1038,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -1052,7 +1052,7 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'lt-norm',
   ),
-  28 => 
+  28 =>
   array (
     'DescDoenca' => 'rhizoctonia-root-rot',
     'area-damaged' => 'low-areas',
@@ -1068,8 +1068,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Norm',
@@ -1077,8 +1077,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -1091,7 +1091,7 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'lt-norm',
   ),
-  29 => 
+  29 =>
   array (
     'DescDoenca' => 'rhizoctonia-root-rot',
     'area-damaged' => 'low-areas',
@@ -1107,8 +1107,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Norm',
@@ -1116,8 +1116,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -1130,7 +1130,7 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'lt-norm',
   ),
-  30 => 
+  30 =>
   array (
     'DescDoenca' => 'rhizoctonia-root-rot',
     'area-damaged' => 'low-areas',
@@ -1146,8 +1146,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Norm',
@@ -1155,8 +1155,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -1169,7 +1169,7 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'lt-norm',
   ),
-  31 => 
+  31 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -1185,8 +1185,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -1194,8 +1194,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -1208,7 +1208,7 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'norm',
   ),
-  32 => 
+  32 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -1224,8 +1224,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -1233,8 +1233,8 @@
     'mold-growth' => 'Desconhecido',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
     'seed' => 'Desconhecido',
@@ -1247,7 +1247,7 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'norm',
   ),
-  33 => 
+  33 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -1272,8 +1272,8 @@
     'mold-growth' => 'Desconhecido',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
     'seed' => 'Desconhecido',
@@ -1286,7 +1286,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  34 => 
+  34 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -1302,8 +1302,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -1311,8 +1311,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -1325,7 +1325,7 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'lt-norm',
   ),
-  35 => 
+  35 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -1350,8 +1350,8 @@
     'mold-growth' => 'Desconhecido',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
     'seed' => 'Desconhecido',
@@ -1364,7 +1364,7 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'gt-norm',
   ),
-  36 => 
+  36 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -1389,8 +1389,8 @@
     'mold-growth' => 'Desconhecido',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
     'seed' => 'Desconhecido',
@@ -1403,7 +1403,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  37 => 
+  37 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -1419,8 +1419,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -1428,7 +1428,7 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
@@ -1442,7 +1442,7 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'norm',
   ),
-  38 => 
+  38 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -1458,8 +1458,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -1467,8 +1467,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -1481,7 +1481,7 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'lt-norm',
   ),
-  39 => 
+  39 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -1497,8 +1497,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -1506,7 +1506,7 @@
     'mold-growth' => 'Desconhecido',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
@@ -1520,7 +1520,7 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'norm',
   ),
-  40 => 
+  40 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -1536,8 +1536,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -1545,8 +1545,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -1559,7 +1559,7 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'lt-norm',
   ),
-  41 => 
+  41 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -1575,8 +1575,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -1584,8 +1584,8 @@
     'mold-growth' => 'Desconhecido',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
     'seed' => 'Desconhecido',
@@ -1598,7 +1598,7 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'norm',
   ),
-  42 => 
+  42 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -1623,8 +1623,8 @@
     'mold-growth' => 'Desconhecido',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
     'seed' => 'Desconhecido',
@@ -1637,7 +1637,7 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'norm',
   ),
-  43 => 
+  43 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -1653,8 +1653,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -1662,8 +1662,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -1676,7 +1676,7 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'norm',
   ),
-  44 => 
+  44 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -1692,8 +1692,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -1701,7 +1701,7 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
@@ -1715,7 +1715,7 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'norm',
   ),
-  45 => 
+  45 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -1731,8 +1731,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -1740,8 +1740,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -1754,7 +1754,7 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'lt-norm',
   ),
-  46 => 
+  46 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -1779,8 +1779,8 @@
     'mold-growth' => 'Desconhecido',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
     'seed' => 'Desconhecido',
@@ -1793,7 +1793,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  47 => 
+  47 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -1809,8 +1809,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -1818,8 +1818,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -1832,7 +1832,7 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'norm',
   ),
-  48 => 
+  48 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -1848,8 +1848,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -1857,7 +1857,7 @@
     'mold-growth' => 'Desconhecido',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
@@ -1871,7 +1871,7 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'gt-norm',
   ),
-  49 => 
+  49 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -1887,8 +1887,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -1896,8 +1896,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -1910,7 +1910,7 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'norm',
   ),
-  50 => 
+  50 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -1926,8 +1926,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -1935,8 +1935,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -1949,7 +1949,7 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'norm',
   ),
-  51 => 
+  51 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -1965,8 +1965,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -1974,8 +1974,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -1988,7 +1988,7 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'norm',
   ),
-  52 => 
+  52 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -2004,8 +2004,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -2013,8 +2013,8 @@
     'mold-growth' => 'Desconhecido',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
     'seed' => 'Desconhecido',
@@ -2027,7 +2027,7 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'norm',
   ),
-  53 => 
+  53 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -2052,8 +2052,8 @@
     'mold-growth' => 'Desconhecido',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
     'seed' => 'Desconhecido',
@@ -2066,7 +2066,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  54 => 
+  54 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -2082,8 +2082,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -2091,8 +2091,8 @@
     'mold-growth' => 'Desconhecido',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
     'seed' => 'Desconhecido',
@@ -2105,7 +2105,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  55 => 
+  55 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -2130,8 +2130,8 @@
     'mold-growth' => 'Desconhecido',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
     'seed' => 'Desconhecido',
@@ -2144,7 +2144,7 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'gt-norm',
   ),
-  56 => 
+  56 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -2160,8 +2160,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -2169,8 +2169,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -2183,7 +2183,7 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'norm',
   ),
-  57 => 
+  57 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -2199,8 +2199,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -2208,7 +2208,7 @@
     'mold-growth' => 'Desconhecido',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
@@ -2222,7 +2222,7 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'norm',
   ),
-  58 => 
+  58 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -2247,8 +2247,8 @@
     'mold-growth' => 'Desconhecido',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
     'seed' => 'Desconhecido',
@@ -2261,7 +2261,7 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'gt-norm',
   ),
-  59 => 
+  59 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -2277,8 +2277,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -2286,7 +2286,7 @@
     'mold-growth' => 'Desconhecido',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
@@ -2300,7 +2300,7 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'gt-norm',
   ),
-  60 => 
+  60 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -2325,8 +2325,8 @@
     'mold-growth' => 'Desconhecido',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
     'seed' => 'Desconhecido',
@@ -2339,7 +2339,7 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'gt-norm',
   ),
-  61 => 
+  61 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -2355,8 +2355,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -2364,8 +2364,8 @@
     'mold-growth' => 'Desconhecido',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
     'seed' => 'Desconhecido',
@@ -2378,7 +2378,7 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'gt-norm',
   ),
-  62 => 
+  62 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -2394,8 +2394,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -2403,7 +2403,7 @@
     'mold-growth' => 'Desconhecido',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
@@ -2417,7 +2417,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  63 => 
+  63 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -2433,8 +2433,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -2442,8 +2442,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -2456,7 +2456,7 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'lt-norm',
   ),
-  64 => 
+  64 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -2472,8 +2472,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -2481,7 +2481,7 @@
     'mold-growth' => 'Desconhecido',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
@@ -2495,7 +2495,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  65 => 
+  65 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -2520,8 +2520,8 @@
     'mold-growth' => 'Desconhecido',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
     'seed' => 'Desconhecido',
@@ -2534,7 +2534,7 @@
     'stem-cankers' => 'below-soil',
     'temp' => 'gt-norm',
   ),
-  66 => 
+  66 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -2550,8 +2550,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -2559,8 +2559,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -2573,7 +2573,7 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'lt-norm',
   ),
-  67 => 
+  67 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -2598,8 +2598,8 @@
     'mold-growth' => 'Desconhecido',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
     'seed' => 'Desconhecido',
@@ -2612,7 +2612,7 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'norm',
   ),
-  68 => 
+  68 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -2637,8 +2637,8 @@
     'mold-growth' => 'Desconhecido',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
     'seed' => 'Desconhecido',
@@ -2651,7 +2651,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  69 => 
+  69 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -2667,8 +2667,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -2676,7 +2676,7 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
@@ -2690,7 +2690,7 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'lt-norm',
   ),
-  70 => 
+  70 =>
   array (
     'DescDoenca' => 'phytophthora-rot',
     'area-damaged' => 'low-areas',
@@ -2715,8 +2715,8 @@
     'mold-growth' => 'Desconhecido',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
     'seed' => 'Desconhecido',
@@ -2729,7 +2729,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  71 => 
+  71 =>
   array (
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'whole-field',
@@ -2745,8 +2745,8 @@
     'int-discolor' => 'Brown',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -2755,7 +2755,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -2768,7 +2768,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  72 => 
+  72 =>
   array (
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'whole-field',
@@ -2784,8 +2784,8 @@
     'int-discolor' => 'Brown',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -2794,7 +2794,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -2807,7 +2807,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  73 => 
+  73 =>
   array (
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'scattered',
@@ -2823,8 +2823,8 @@
     'int-discolor' => 'Brown',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Norm',
@@ -2832,8 +2832,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -2846,7 +2846,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  74 => 
+  74 =>
   array (
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'whole-field',
@@ -2862,8 +2862,8 @@
     'int-discolor' => 'Brown',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -2872,7 +2872,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -2885,7 +2885,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  75 => 
+  75 =>
   array (
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'whole-field',
@@ -2901,8 +2901,8 @@
     'int-discolor' => 'Brown',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -2911,7 +2911,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -2924,7 +2924,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  76 => 
+  76 =>
   array (
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'upper-areas',
@@ -2940,8 +2940,8 @@
     'int-discolor' => 'Brown',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -2950,7 +2950,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -2963,7 +2963,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  77 => 
+  77 =>
   array (
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'whole-field',
@@ -2979,7 +2979,7 @@
     'int-discolor' => 'Brown',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -2989,7 +2989,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -3002,7 +3002,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  78 => 
+  78 =>
   array (
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'scattered',
@@ -3018,8 +3018,8 @@
     'int-discolor' => 'Brown',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'dna',
     'leaves' => 'Norm',
@@ -3041,7 +3041,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  79 => 
+  79 =>
   array (
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'upper-areas',
@@ -3057,8 +3057,8 @@
     'int-discolor' => 'Brown',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -3066,8 +3066,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -3080,7 +3080,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  80 => 
+  80 =>
   array (
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'whole-field',
@@ -3096,7 +3096,7 @@
     'int-discolor' => 'Brown',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -3105,8 +3105,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -3119,7 +3119,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  81 => 
+  81 =>
   array (
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'whole-field',
@@ -3135,8 +3135,8 @@
     'int-discolor' => 'Brown',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Norm',
@@ -3158,7 +3158,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  82 => 
+  82 =>
   array (
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'upper-areas',
@@ -3174,7 +3174,7 @@
     'int-discolor' => 'Brown',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -3183,8 +3183,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -3197,7 +3197,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  83 => 
+  83 =>
   array (
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'scattered',
@@ -3213,8 +3213,8 @@
     'int-discolor' => 'Brown',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -3223,7 +3223,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -3236,7 +3236,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  84 => 
+  84 =>
   array (
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'scattered',
@@ -3252,7 +3252,7 @@
     'int-discolor' => 'Brown',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -3261,8 +3261,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -3275,7 +3275,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  85 => 
+  85 =>
   array (
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'upper-areas',
@@ -3291,8 +3291,8 @@
     'int-discolor' => 'Brown',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -3301,7 +3301,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -3314,7 +3314,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  86 => 
+  86 =>
   array (
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'whole-field',
@@ -3330,8 +3330,8 @@
     'int-discolor' => 'Brown',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -3340,7 +3340,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -3353,7 +3353,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  87 => 
+  87 =>
   array (
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'upper-areas',
@@ -3369,8 +3369,8 @@
     'int-discolor' => 'Brown',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -3379,7 +3379,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -3392,7 +3392,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  88 => 
+  88 =>
   array (
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'upper-areas',
@@ -3408,8 +3408,8 @@
     'int-discolor' => 'Brown',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -3418,7 +3418,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -3431,7 +3431,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  89 => 
+  89 =>
   array (
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'upper-areas',
@@ -3447,8 +3447,8 @@
     'int-discolor' => 'Brown',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -3457,7 +3457,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -3470,7 +3470,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  90 => 
+  90 =>
   array (
     'DescDoenca' => 'brown-stem-rot',
     'area-damaged' => 'upper-areas',
@@ -3486,8 +3486,8 @@
     'int-discolor' => 'Brown',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -3496,7 +3496,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -3509,7 +3509,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  91 => 
+  91 =>
   array (
     'DescDoenca' => 'powdery-mildew',
     'area-damaged' => 'whole-field',
@@ -3525,8 +3525,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Upper-surf',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -3535,7 +3535,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -3548,7 +3548,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  92 => 
+  92 =>
   array (
     'DescDoenca' => 'powdery-mildew',
     'area-damaged' => 'scattered',
@@ -3564,8 +3564,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Upper-surf',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -3587,7 +3587,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  93 => 
+  93 =>
   array (
     'DescDoenca' => 'powdery-mildew',
     'area-damaged' => 'whole-field',
@@ -3603,8 +3603,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Upper-surf',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -3612,8 +3612,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -3626,7 +3626,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  94 => 
+  94 =>
   array (
     'DescDoenca' => 'powdery-mildew',
     'area-damaged' => 'upper-areas',
@@ -3642,8 +3642,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Upper-surf',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -3651,7 +3651,7 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
@@ -3665,7 +3665,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  95 => 
+  95 =>
   array (
     'DescDoenca' => 'powdery-mildew',
     'area-damaged' => 'upper-areas',
@@ -3681,8 +3681,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Upper-surf',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -3690,7 +3690,7 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
@@ -3704,7 +3704,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  96 => 
+  96 =>
   array (
     'DescDoenca' => 'powdery-mildew',
     'area-damaged' => 'low-areas',
@@ -3720,8 +3720,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Upper-surf',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -3730,7 +3730,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -3743,7 +3743,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  97 => 
+  97 =>
   array (
     'DescDoenca' => 'powdery-mildew',
     'area-damaged' => 'upper-areas',
@@ -3759,8 +3759,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Upper-surf',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -3768,7 +3768,7 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
@@ -3782,7 +3782,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  98 => 
+  98 =>
   array (
     'DescDoenca' => 'powdery-mildew',
     'area-damaged' => 'low-areas',
@@ -3798,8 +3798,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Upper-surf',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -3807,8 +3807,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -3821,7 +3821,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  99 => 
+  99 =>
   array (
     'DescDoenca' => 'powdery-mildew',
     'area-damaged' => 'low-areas',
@@ -3837,8 +3837,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Upper-surf',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -3846,8 +3846,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -3860,7 +3860,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  100 => 
+  100 =>
   array (
     'DescDoenca' => 'powdery-mildew',
     'area-damaged' => 'low-areas',
@@ -3876,8 +3876,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Upper-surf',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -3885,8 +3885,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -3899,7 +3899,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  101 => 
+  101 =>
   array (
     'DescDoenca' => 'downy-mildew',
     'area-damaged' => 'low-areas',
@@ -3915,7 +3915,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Present',
     'leaf-mild' => 'Lower-surf',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -3925,7 +3925,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -3938,7 +3938,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  102 => 
+  102 =>
   array (
     'DescDoenca' => 'downy-mildew',
     'area-damaged' => 'low-areas',
@@ -3954,7 +3954,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Present',
     'leaf-mild' => 'Lower-surf',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -3964,7 +3964,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -3977,7 +3977,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  103 => 
+  103 =>
   array (
     'DescDoenca' => 'downy-mildew',
     'area-damaged' => 'upper-areas',
@@ -3993,7 +3993,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Lower-surf',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -4003,7 +4003,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -4016,7 +4016,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  104 => 
+  104 =>
   array (
     'DescDoenca' => 'downy-mildew',
     'area-damaged' => 'upper-areas',
@@ -4032,7 +4032,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Present',
     'leaf-mild' => 'Lower-surf',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -4041,8 +4041,8 @@
     'mold-growth' => 'Present',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -4055,7 +4055,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  105 => 
+  105 =>
   array (
     'DescDoenca' => 'downy-mildew',
     'area-damaged' => 'scattered',
@@ -4071,7 +4071,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Lower-surf',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -4081,7 +4081,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -4094,7 +4094,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  106 => 
+  106 =>
   array (
     'DescDoenca' => 'downy-mildew',
     'area-damaged' => 'scattered',
@@ -4110,7 +4110,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Lower-surf',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -4119,8 +4119,8 @@
     'mold-growth' => 'Present',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -4133,7 +4133,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  107 => 
+  107 =>
   array (
     'DescDoenca' => 'downy-mildew',
     'area-damaged' => 'scattered',
@@ -4149,7 +4149,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Lower-surf',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -4158,8 +4158,8 @@
     'mold-growth' => 'Present',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -4172,7 +4172,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  108 => 
+  108 =>
   array (
     'DescDoenca' => 'downy-mildew',
     'area-damaged' => 'low-areas',
@@ -4188,7 +4188,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Lower-surf',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -4197,8 +4197,8 @@
     'mold-growth' => 'Present',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -4211,7 +4211,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  109 => 
+  109 =>
   array (
     'DescDoenca' => 'downy-mildew',
     'area-damaged' => 'upper-areas',
@@ -4227,7 +4227,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Lower-surf',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -4236,8 +4236,8 @@
     'mold-growth' => 'Present',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -4250,7 +4250,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  110 => 
+  110 =>
   array (
     'DescDoenca' => 'downy-mildew',
     'area-damaged' => 'upper-areas',
@@ -4266,7 +4266,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Lower-surf',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -4275,8 +4275,8 @@
     'mold-growth' => 'Present',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -4289,7 +4289,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  111 => 
+  111 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
@@ -4305,7 +4305,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -4314,8 +4314,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -4328,7 +4328,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  112 => 
+  112 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
@@ -4344,7 +4344,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -4354,7 +4354,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -4367,7 +4367,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  113 => 
+  113 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
@@ -4393,7 +4393,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -4406,7 +4406,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  114 => 
+  114 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'scattered',
@@ -4432,7 +4432,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -4445,7 +4445,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  115 => 
+  115 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
@@ -4461,7 +4461,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -4470,8 +4470,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -4484,7 +4484,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  116 => 
+  116 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
@@ -4509,8 +4509,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -4523,7 +4523,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  117 => 
+  117 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
@@ -4539,7 +4539,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -4548,8 +4548,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -4562,7 +4562,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  118 => 
+  118 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
@@ -4588,7 +4588,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -4601,7 +4601,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  119 => 
+  119 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
@@ -4627,7 +4627,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -4640,7 +4640,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  120 => 
+  120 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
@@ -4665,8 +4665,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -4679,7 +4679,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  121 => 
+  121 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'upper-areas',
@@ -4695,7 +4695,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -4705,7 +4705,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -4718,7 +4718,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  122 => 
+  122 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
@@ -4743,8 +4743,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -4757,7 +4757,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  123 => 
+  123 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
@@ -4783,7 +4783,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -4796,7 +4796,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  124 => 
+  124 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
@@ -4822,7 +4822,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -4835,7 +4835,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  125 => 
+  125 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
@@ -4861,7 +4861,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -4874,7 +4874,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  126 => 
+  126 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
@@ -4890,7 +4890,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -4899,8 +4899,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -4913,7 +4913,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  127 => 
+  127 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
@@ -4939,7 +4939,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -4952,7 +4952,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  128 => 
+  128 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'upper-areas',
@@ -4968,7 +4968,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -4977,7 +4977,7 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
@@ -4991,7 +4991,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  129 => 
+  129 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'scattered',
@@ -5007,7 +5007,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -5016,7 +5016,7 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
@@ -5030,7 +5030,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  130 => 
+  130 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'scattered',
@@ -5055,8 +5055,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -5069,7 +5069,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  131 => 
+  131 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
@@ -5085,7 +5085,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -5095,7 +5095,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -5108,7 +5108,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  132 => 
+  132 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
@@ -5134,7 +5134,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -5147,7 +5147,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  133 => 
+  133 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
@@ -5163,7 +5163,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -5173,7 +5173,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -5186,7 +5186,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  134 => 
+  134 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'low-areas',
@@ -5202,7 +5202,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -5211,8 +5211,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -5225,7 +5225,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  135 => 
+  135 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
@@ -5251,7 +5251,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -5264,7 +5264,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  136 => 
+  136 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
@@ -5289,8 +5289,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -5303,7 +5303,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  137 => 
+  137 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
@@ -5329,7 +5329,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -5342,7 +5342,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  138 => 
+  138 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'upper-areas',
@@ -5358,7 +5358,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -5367,7 +5367,7 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
@@ -5381,7 +5381,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  139 => 
+  139 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
@@ -5406,8 +5406,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -5420,7 +5420,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  140 => 
+  140 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
@@ -5436,7 +5436,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -5446,7 +5446,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -5459,7 +5459,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  141 => 
+  141 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
@@ -5475,7 +5475,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -5485,7 +5485,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -5498,7 +5498,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  142 => 
+  142 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
@@ -5514,7 +5514,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -5523,8 +5523,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -5537,7 +5537,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  143 => 
+  143 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'scattered',
@@ -5553,7 +5553,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -5562,7 +5562,7 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
@@ -5576,7 +5576,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  144 => 
+  144 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'low-areas',
@@ -5592,7 +5592,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -5601,8 +5601,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -5615,7 +5615,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  145 => 
+  145 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
@@ -5631,7 +5631,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -5641,7 +5641,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -5654,7 +5654,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  146 => 
+  146 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'upper-areas',
@@ -5670,7 +5670,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -5680,7 +5680,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -5693,7 +5693,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  147 => 
+  147 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'low-areas',
@@ -5719,7 +5719,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -5732,7 +5732,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  148 => 
+  148 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'low-areas',
@@ -5757,8 +5757,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -5771,7 +5771,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  149 => 
+  149 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
@@ -5796,8 +5796,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -5810,7 +5810,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  150 => 
+  150 =>
   array (
     'DescDoenca' => 'brown-spot',
     'area-damaged' => 'whole-field',
@@ -5826,7 +5826,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -5835,8 +5835,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -5849,7 +5849,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  151 => 
+  151 =>
   array (
     'DescDoenca' => 'bacterial-blight',
     'area-damaged' => 'whole-field',
@@ -5875,7 +5875,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -5888,7 +5888,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  152 => 
+  152 =>
   array (
     'DescDoenca' => 'bacterial-blight',
     'area-damaged' => 'whole-field',
@@ -5914,7 +5914,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -5927,7 +5927,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  153 => 
+  153 =>
   array (
     'DescDoenca' => 'bacterial-blight',
     'area-damaged' => 'scattered',
@@ -5943,7 +5943,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'yellow-halos',
     'leafspot-size' => 'lt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -5966,7 +5966,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  154 => 
+  154 =>
   array (
     'DescDoenca' => 'bacterial-blight',
     'area-damaged' => 'upper-areas',
@@ -6005,7 +6005,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  155 => 
+  155 =>
   array (
     'DescDoenca' => 'bacterial-blight',
     'area-damaged' => 'upper-areas',
@@ -6044,7 +6044,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  156 => 
+  156 =>
   array (
     'DescDoenca' => 'bacterial-blight',
     'area-damaged' => 'low-areas',
@@ -6070,7 +6070,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -6083,7 +6083,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  157 => 
+  157 =>
   array (
     'DescDoenca' => 'bacterial-blight',
     'area-damaged' => 'scattered',
@@ -6122,7 +6122,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  158 => 
+  158 =>
   array (
     'DescDoenca' => 'bacterial-blight',
     'area-damaged' => 'whole-field',
@@ -6148,7 +6148,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -6161,7 +6161,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  159 => 
+  159 =>
   array (
     'DescDoenca' => 'bacterial-blight',
     'area-damaged' => 'low-areas',
@@ -6200,7 +6200,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  160 => 
+  160 =>
   array (
     'DescDoenca' => 'bacterial-blight',
     'area-damaged' => 'low-areas',
@@ -6225,8 +6225,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -6239,7 +6239,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  161 => 
+  161 =>
   array (
     'DescDoenca' => 'bacterial-pustule',
     'area-damaged' => 'upper-areas',
@@ -6255,7 +6255,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'yellow-halos',
     'leafspot-size' => 'lt-1/8',
     'leafspots-marg' => 'no-w-s-marg',
@@ -6264,7 +6264,7 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Normal',
     'roots' => 'galls-cysts',
     'sclerotia' => 'Absent',
@@ -6278,7 +6278,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  162 => 
+  162 =>
   array (
     'DescDoenca' => 'bacterial-pustule',
     'area-damaged' => 'whole-field',
@@ -6304,7 +6304,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -6317,7 +6317,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  163 => 
+  163 =>
   array (
     'DescDoenca' => 'bacterial-pustule',
     'area-damaged' => 'scattered',
@@ -6333,7 +6333,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'yellow-halos',
     'leafspot-size' => 'lt-1/8',
     'leafspots-marg' => 'no-w-s-marg',
@@ -6356,7 +6356,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  164 => 
+  164 =>
   array (
     'DescDoenca' => 'bacterial-pustule',
     'area-damaged' => 'scattered',
@@ -6381,8 +6381,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -6395,7 +6395,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  165 => 
+  165 =>
   array (
     'DescDoenca' => 'bacterial-pustule',
     'area-damaged' => 'low-areas',
@@ -6421,7 +6421,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -6434,7 +6434,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  166 => 
+  166 =>
   array (
     'DescDoenca' => 'bacterial-pustule',
     'area-damaged' => 'scattered',
@@ -6450,7 +6450,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'lt-1/8',
     'leafspots-marg' => 'no-w-s-marg',
@@ -6459,7 +6459,7 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
@@ -6473,7 +6473,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  167 => 
+  167 =>
   array (
     'DescDoenca' => 'bacterial-pustule',
     'area-damaged' => 'whole-field',
@@ -6512,7 +6512,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  168 => 
+  168 =>
   array (
     'DescDoenca' => 'bacterial-pustule',
     'area-damaged' => 'upper-areas',
@@ -6537,8 +6537,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -6551,7 +6551,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  169 => 
+  169 =>
   array (
     'DescDoenca' => 'bacterial-pustule',
     'area-damaged' => 'whole-field',
@@ -6590,7 +6590,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  170 => 
+  170 =>
   array (
     'DescDoenca' => 'bacterial-pustule',
     'area-damaged' => 'scattered',
@@ -6615,7 +6615,7 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Normal',
     'roots' => 'Rotted',
     'sclerotia' => 'Absent',
@@ -6629,7 +6629,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  171 => 
+  171 =>
   array (
     'DescDoenca' => 'purple-seed-stain',
     'area-damaged' => 'upper-areas',
@@ -6645,8 +6645,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Norm',
@@ -6655,7 +6655,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -6668,7 +6668,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  172 => 
+  172 =>
   array (
     'DescDoenca' => 'purple-seed-stain',
     'area-damaged' => 'upper-areas',
@@ -6684,7 +6684,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'lt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -6694,7 +6694,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -6707,7 +6707,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  173 => 
+  173 =>
   array (
     'DescDoenca' => 'purple-seed-stain',
     'area-damaged' => 'low-areas',
@@ -6723,8 +6723,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Norm',
@@ -6733,7 +6733,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -6746,7 +6746,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  174 => 
+  174 =>
   array (
     'DescDoenca' => 'purple-seed-stain',
     'area-damaged' => 'scattered',
@@ -6762,7 +6762,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'lt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -6772,7 +6772,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -6785,7 +6785,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  175 => 
+  175 =>
   array (
     'DescDoenca' => 'purple-seed-stain',
     'area-damaged' => 'scattered',
@@ -6801,7 +6801,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'lt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -6811,7 +6811,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -6824,7 +6824,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  176 => 
+  176 =>
   array (
     'DescDoenca' => 'purple-seed-stain',
     'area-damaged' => 'upper-areas',
@@ -6840,7 +6840,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'lt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -6850,7 +6850,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -6863,7 +6863,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  177 => 
+  177 =>
   array (
     'DescDoenca' => 'purple-seed-stain',
     'area-damaged' => 'scattered',
@@ -6879,8 +6879,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Norm',
@@ -6889,7 +6889,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -6902,7 +6902,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'lt-norm',
   ),
-  178 => 
+  178 =>
   array (
     'DescDoenca' => 'purple-seed-stain',
     'area-damaged' => 'whole-field',
@@ -6918,8 +6918,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Norm',
@@ -6928,7 +6928,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -6941,7 +6941,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  179 => 
+  179 =>
   array (
     'DescDoenca' => 'purple-seed-stain',
     'area-damaged' => 'low-areas',
@@ -6957,7 +6957,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'lt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -6967,7 +6967,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -6980,7 +6980,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  180 => 
+  180 =>
   array (
     'DescDoenca' => 'purple-seed-stain',
     'area-damaged' => 'scattered',
@@ -6996,8 +6996,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Norm',
@@ -7006,7 +7006,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -7019,7 +7019,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  181 => 
+  181 =>
   array (
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'whole-field',
@@ -7035,8 +7035,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Norm',
@@ -7044,8 +7044,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -7058,7 +7058,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  182 => 
+  182 =>
   array (
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'upper-areas',
@@ -7074,8 +7074,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -7083,8 +7083,8 @@
     'mold-growth' => 'Present',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -7097,7 +7097,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  183 => 
+  183 =>
   array (
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'low-areas',
@@ -7113,8 +7113,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Norm',
@@ -7123,7 +7123,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -7136,7 +7136,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  184 => 
+  184 =>
   array (
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'scattered',
@@ -7152,8 +7152,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -7161,8 +7161,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -7175,7 +7175,7 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'gt-norm',
   ),
-  185 => 
+  185 =>
   array (
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'whole-field',
@@ -7191,8 +7191,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -7201,7 +7201,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -7214,7 +7214,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  186 => 
+  186 =>
   array (
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'upper-areas',
@@ -7230,8 +7230,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -7239,8 +7239,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -7253,7 +7253,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  187 => 
+  187 =>
   array (
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'upper-areas',
@@ -7269,8 +7269,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Norm',
@@ -7279,7 +7279,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -7292,7 +7292,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  188 => 
+  188 =>
   array (
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'low-areas',
@@ -7308,8 +7308,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -7318,7 +7318,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -7331,7 +7331,7 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'norm',
   ),
-  189 => 
+  189 =>
   array (
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'upper-areas',
@@ -7347,8 +7347,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Norm',
@@ -7356,8 +7356,8 @@
     'mold-growth' => 'Present',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -7370,7 +7370,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  190 => 
+  190 =>
   array (
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'low-areas',
@@ -7386,8 +7386,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -7396,7 +7396,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -7409,7 +7409,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  191 => 
+  191 =>
   array (
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'whole-field',
@@ -7425,8 +7425,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -7434,8 +7434,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -7448,7 +7448,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  192 => 
+  192 =>
   array (
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'whole-field',
@@ -7464,8 +7464,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -7474,7 +7474,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -7487,7 +7487,7 @@
     'stem-cankers' => 'Above-soil',
     'temp' => 'norm',
   ),
-  193 => 
+  193 =>
   array (
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'upper-areas',
@@ -7503,8 +7503,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -7513,7 +7513,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -7526,7 +7526,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  194 => 
+  194 =>
   array (
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'low-areas',
@@ -7542,8 +7542,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Norm',
@@ -7551,8 +7551,8 @@
     'mold-growth' => 'Present',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -7565,7 +7565,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  195 => 
+  195 =>
   array (
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'upper-areas',
@@ -7581,8 +7581,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Norm',
@@ -7591,7 +7591,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -7604,7 +7604,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  196 => 
+  196 =>
   array (
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'scattered',
@@ -7620,8 +7620,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -7629,8 +7629,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -7643,7 +7643,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  197 => 
+  197 =>
   array (
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'low-areas',
@@ -7659,8 +7659,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Norm',
@@ -7669,7 +7669,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -7682,7 +7682,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  198 => 
+  198 =>
   array (
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'whole-field',
@@ -7698,8 +7698,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -7707,8 +7707,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -7721,7 +7721,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  199 => 
+  199 =>
   array (
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'whole-field',
@@ -7737,8 +7737,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Norm',
@@ -7746,8 +7746,8 @@
     'mold-growth' => 'Present',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -7760,7 +7760,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  200 => 
+  200 =>
   array (
     'DescDoenca' => 'anthracnose',
     'area-damaged' => 'upper-areas',
@@ -7776,8 +7776,8 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Norm',
@@ -7785,8 +7785,8 @@
     'mold-growth' => 'Present',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -7799,7 +7799,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  201 => 
+  201 =>
   array (
     'DescDoenca' => 'phyllosticta-leaf-spot',
     'area-damaged' => 'upper-areas',
@@ -7815,7 +7815,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -7824,7 +7824,7 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
@@ -7838,7 +7838,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  202 => 
+  202 =>
   array (
     'DescDoenca' => 'phyllosticta-leaf-spot',
     'area-damaged' => 'upper-areas',
@@ -7854,7 +7854,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Present',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -7864,7 +7864,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -7877,7 +7877,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  203 => 
+  203 =>
   array (
     'DescDoenca' => 'phyllosticta-leaf-spot',
     'area-damaged' => 'scattered',
@@ -7893,7 +7893,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -7902,7 +7902,7 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
@@ -7916,7 +7916,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  204 => 
+  204 =>
   array (
     'DescDoenca' => 'phyllosticta-leaf-spot',
     'area-damaged' => 'scattered',
@@ -7932,7 +7932,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -7942,7 +7942,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -7955,7 +7955,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  205 => 
+  205 =>
   array (
     'DescDoenca' => 'phyllosticta-leaf-spot',
     'area-damaged' => 'upper-areas',
@@ -7980,7 +7980,7 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
@@ -7994,7 +7994,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  206 => 
+  206 =>
   array (
     'DescDoenca' => 'phyllosticta-leaf-spot',
     'area-damaged' => 'whole-field',
@@ -8010,7 +8010,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -8020,7 +8020,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -8033,7 +8033,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  207 => 
+  207 =>
   array (
     'DescDoenca' => 'phyllosticta-leaf-spot',
     'area-damaged' => 'upper-areas',
@@ -8059,7 +8059,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -8072,7 +8072,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  208 => 
+  208 =>
   array (
     'DescDoenca' => 'phyllosticta-leaf-spot',
     'area-damaged' => 'upper-areas',
@@ -8088,7 +8088,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Present',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -8097,7 +8097,7 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
@@ -8111,7 +8111,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  209 => 
+  209 =>
   array (
     'DescDoenca' => 'phyllosticta-leaf-spot',
     'area-damaged' => 'scattered',
@@ -8137,7 +8137,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
     'plant-stand' => 'Normal',
-    'precip' => 'lt-normal',
+    'precip' => 'lt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -8150,7 +8150,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  210 => 
+  210 =>
   array (
     'DescDoenca' => 'phyllosticta-leaf-spot',
     'area-damaged' => 'whole-field',
@@ -8175,7 +8175,7 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
@@ -8189,7 +8189,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  211 => 
+  211 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'low-areas',
@@ -8205,7 +8205,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -8214,8 +8214,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -8228,7 +8228,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  212 => 
+  212 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'whole-field',
@@ -8244,7 +8244,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -8267,7 +8267,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  213 => 
+  213 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'scattered',
@@ -8283,7 +8283,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -8293,7 +8293,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -8306,7 +8306,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  214 => 
+  214 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'whole-field',
@@ -8322,7 +8322,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -8332,7 +8332,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -8345,7 +8345,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  215 => 
+  215 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'upper-areas',
@@ -8361,7 +8361,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -8384,7 +8384,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  216 => 
+  216 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'whole-field',
@@ -8400,7 +8400,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -8410,7 +8410,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -8423,7 +8423,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  217 => 
+  217 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'whole-field',
@@ -8439,7 +8439,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -8462,7 +8462,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  218 => 
+  218 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'low-areas',
@@ -8478,7 +8478,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -8487,8 +8487,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -8501,7 +8501,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  219 => 
+  219 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'whole-field',
@@ -8517,7 +8517,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -8527,7 +8527,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -8540,7 +8540,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  220 => 
+  220 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'upper-areas',
@@ -8556,7 +8556,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -8566,7 +8566,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -8579,7 +8579,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  221 => 
+  221 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'whole-field',
@@ -8595,7 +8595,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -8605,7 +8605,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -8618,7 +8618,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  222 => 
+  222 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'scattered',
@@ -8634,7 +8634,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -8643,8 +8643,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -8657,7 +8657,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  223 => 
+  223 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'low-areas',
@@ -8683,7 +8683,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -8696,7 +8696,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  224 => 
+  224 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'upper-areas',
@@ -8712,7 +8712,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -8722,7 +8722,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -8735,7 +8735,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  225 => 
+  225 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'scattered',
@@ -8751,7 +8751,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -8760,8 +8760,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -8774,7 +8774,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  226 => 
+  226 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'upper-areas',
@@ -8790,7 +8790,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -8800,7 +8800,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -8813,7 +8813,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  227 => 
+  227 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'low-areas',
@@ -8839,7 +8839,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -8852,7 +8852,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  228 => 
+  228 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'low-areas',
@@ -8868,7 +8868,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -8878,7 +8878,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -8891,7 +8891,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  229 => 
+  229 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'upper-areas',
@@ -8907,7 +8907,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -8917,7 +8917,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -8930,7 +8930,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  230 => 
+  230 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'low-areas',
@@ -8946,7 +8946,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -8955,8 +8955,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -8969,7 +8969,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  231 => 
+  231 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'low-areas',
@@ -8985,7 +8985,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -8994,8 +8994,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -9008,7 +9008,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  232 => 
+  232 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'whole-field',
@@ -9024,7 +9024,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -9033,8 +9033,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -9047,7 +9047,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  233 => 
+  233 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'low-areas',
@@ -9072,8 +9072,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -9086,7 +9086,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  234 => 
+  234 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'upper-areas',
@@ -9102,7 +9102,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -9111,7 +9111,7 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
@@ -9125,7 +9125,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  235 => 
+  235 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'upper-areas',
@@ -9141,7 +9141,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -9150,8 +9150,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -9164,7 +9164,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  236 => 
+  236 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'low-areas',
@@ -9180,7 +9180,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -9189,8 +9189,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -9203,7 +9203,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  237 => 
+  237 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'whole-field',
@@ -9219,7 +9219,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -9228,8 +9228,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -9242,7 +9242,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  238 => 
+  238 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'whole-field',
@@ -9258,7 +9258,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -9268,7 +9268,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -9281,7 +9281,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  239 => 
+  239 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'whole-field',
@@ -9297,7 +9297,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -9307,7 +9307,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -9320,7 +9320,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  240 => 
+  240 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'scattered',
@@ -9336,7 +9336,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -9346,7 +9346,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -9359,7 +9359,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  241 => 
+  241 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'upper-areas',
@@ -9385,7 +9385,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -9398,7 +9398,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  242 => 
+  242 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'low-areas',
@@ -9414,7 +9414,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -9424,7 +9424,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -9437,7 +9437,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  243 => 
+  243 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'low-areas',
@@ -9453,7 +9453,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -9463,7 +9463,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -9476,7 +9476,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  244 => 
+  244 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'whole-field',
@@ -9501,8 +9501,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -9515,7 +9515,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  245 => 
+  245 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'low-areas',
@@ -9541,7 +9541,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -9554,7 +9554,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  246 => 
+  246 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'whole-field',
@@ -9570,7 +9570,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -9580,7 +9580,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -9593,7 +9593,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  247 => 
+  247 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'whole-field',
@@ -9609,7 +9609,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -9619,7 +9619,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -9632,7 +9632,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  248 => 
+  248 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'low-areas',
@@ -9648,7 +9648,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -9657,8 +9657,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -9671,7 +9671,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  249 => 
+  249 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'scattered',
@@ -9697,7 +9697,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -9710,7 +9710,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  250 => 
+  250 =>
   array (
     'DescDoenca' => 'alternarialeaf-spot',
     'area-damaged' => 'upper-areas',
@@ -9736,7 +9736,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -9749,7 +9749,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  251 => 
+  251 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'whole-field',
@@ -9765,7 +9765,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -9788,7 +9788,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  252 => 
+  252 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'low-areas',
@@ -9804,7 +9804,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -9827,7 +9827,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  253 => 
+  253 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'low-areas',
@@ -9843,7 +9843,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -9866,7 +9866,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  254 => 
+  254 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'upper-areas',
@@ -9882,7 +9882,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -9891,8 +9891,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -9905,7 +9905,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  255 => 
+  255 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'whole-field',
@@ -9921,7 +9921,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -9930,8 +9930,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -9944,7 +9944,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  256 => 
+  256 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'whole-field',
@@ -9960,7 +9960,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -9983,7 +9983,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  257 => 
+  257 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'whole-field',
@@ -9999,7 +9999,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -10009,7 +10009,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -10022,7 +10022,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  258 => 
+  258 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'upper-areas',
@@ -10038,7 +10038,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -10048,7 +10048,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -10061,7 +10061,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  259 => 
+  259 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'low-areas',
@@ -10077,7 +10077,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -10087,7 +10087,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -10100,7 +10100,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  260 => 
+  260 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'whole-field',
@@ -10116,7 +10116,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -10126,7 +10126,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -10139,7 +10139,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  261 => 
+  261 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'low-areas',
@@ -10155,7 +10155,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -10165,7 +10165,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -10178,7 +10178,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  262 => 
+  262 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'whole-field',
@@ -10194,7 +10194,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -10204,7 +10204,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -10217,7 +10217,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  263 => 
+  263 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'low-areas',
@@ -10233,7 +10233,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -10243,7 +10243,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -10256,7 +10256,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  264 => 
+  264 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'low-areas',
@@ -10272,7 +10272,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -10282,7 +10282,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -10295,7 +10295,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  265 => 
+  265 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'upper-areas',
@@ -10311,7 +10311,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -10320,8 +10320,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -10334,7 +10334,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  266 => 
+  266 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'scattered',
@@ -10350,7 +10350,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -10360,7 +10360,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -10373,7 +10373,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  267 => 
+  267 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'low-areas',
@@ -10389,7 +10389,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -10399,7 +10399,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -10412,7 +10412,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  268 => 
+  268 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'upper-areas',
@@ -10428,7 +10428,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -10438,7 +10438,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -10451,7 +10451,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  269 => 
+  269 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'low-areas',
@@ -10467,7 +10467,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -10477,7 +10477,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -10490,7 +10490,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  270 => 
+  270 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'scattered',
@@ -10506,7 +10506,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -10516,7 +10516,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -10529,7 +10529,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  271 => 
+  271 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'upper-areas',
@@ -10545,7 +10545,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -10555,7 +10555,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -10568,7 +10568,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  272 => 
+  272 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'whole-field',
@@ -10584,7 +10584,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -10607,7 +10607,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  273 => 
+  273 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'whole-field',
@@ -10623,7 +10623,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -10646,7 +10646,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  274 => 
+  274 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'upper-areas',
@@ -10662,7 +10662,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -10672,7 +10672,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -10685,7 +10685,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  275 => 
+  275 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'whole-field',
@@ -10701,7 +10701,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -10710,8 +10710,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -10724,7 +10724,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  276 => 
+  276 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'scattered',
@@ -10740,7 +10740,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -10749,8 +10749,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -10763,7 +10763,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  277 => 
+  277 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'low-areas',
@@ -10779,7 +10779,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -10788,8 +10788,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -10802,7 +10802,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  278 => 
+  278 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'upper-areas',
@@ -10818,7 +10818,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -10828,7 +10828,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -10841,7 +10841,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  279 => 
+  279 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'scattered',
@@ -10857,7 +10857,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -10867,7 +10867,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -10880,7 +10880,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  280 => 
+  280 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'scattered',
@@ -10896,7 +10896,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -10905,8 +10905,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -10919,7 +10919,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  281 => 
+  281 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'whole-field',
@@ -10935,7 +10935,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -10944,8 +10944,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -10958,7 +10958,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  282 => 
+  282 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'low-areas',
@@ -10974,7 +10974,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -10984,7 +10984,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -10997,7 +10997,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  283 => 
+  283 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'whole-field',
@@ -11013,7 +11013,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -11023,7 +11023,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -11036,7 +11036,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  284 => 
+  284 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'low-areas',
@@ -11052,7 +11052,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -11061,7 +11061,7 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
@@ -11075,7 +11075,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  285 => 
+  285 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'scattered',
@@ -11091,7 +11091,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -11101,7 +11101,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -11114,7 +11114,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  286 => 
+  286 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'upper-areas',
@@ -11130,7 +11130,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -11139,8 +11139,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -11153,7 +11153,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'norm',
   ),
-  287 => 
+  287 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'whole-field',
@@ -11169,7 +11169,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -11179,7 +11179,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -11192,7 +11192,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  288 => 
+  288 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'upper-areas',
@@ -11208,7 +11208,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -11218,7 +11218,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -11231,7 +11231,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  289 => 
+  289 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'scattered',
@@ -11247,7 +11247,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -11257,7 +11257,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -11270,7 +11270,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'gt-norm',
   ),
-  290 => 
+  290 =>
   array (
     'DescDoenca' => 'frog-eye-leaf-spot',
     'area-damaged' => 'whole-field',
@@ -11286,7 +11286,7 @@
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
     'leaf-mild' => 'Absent',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'w-s-marg',
@@ -11295,8 +11295,8 @@
     'mold-growth' => 'Absent',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
-    'precip' => 'gt-normal',
+    'plant-stand' => 'lt-Normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Norm',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -11309,7 +11309,7 @@
     'stem-cankers' => 'Above-sec-nde',
     'temp' => 'norm',
   ),
-  291 => 
+  291 =>
   array (
     'DescDoenca' => 'diaporthe-pod-&-stem-blight',
     'area-damaged' => 'whole-field',
@@ -11335,7 +11335,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Desconhecido',
     'sclerotia' => 'Absent',
     'seed' => 'Norm',
@@ -11348,7 +11348,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  292 => 
+  292 =>
   array (
     'DescDoenca' => 'diaporthe-pod-&-stem-blight',
     'area-damaged' => 'whole-field',
@@ -11374,7 +11374,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Desconhecido',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -11387,7 +11387,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  293 => 
+  293 =>
   array (
     'DescDoenca' => 'diaporthe-pod-&-stem-blight',
     'area-damaged' => 'whole-field',
@@ -11413,7 +11413,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Desconhecido',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -11426,7 +11426,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  294 => 
+  294 =>
   array (
     'DescDoenca' => 'diaporthe-pod-&-stem-blight',
     'area-damaged' => 'scattered',
@@ -11451,7 +11451,7 @@
     'mold-growth' => 'Present',
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Normal',
     'roots' => 'Desconhecido',
     'sclerotia' => 'Absent',
@@ -11465,7 +11465,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  295 => 
+  295 =>
   array (
     'DescDoenca' => 'diaporthe-pod-&-stem-blight',
     'area-damaged' => 'whole-field',
@@ -11491,7 +11491,7 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Desconhecido',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Desconhecido',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
@@ -11504,7 +11504,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  296 => 
+  296 =>
   array (
     'DescDoenca' => 'diaporthe-pod-&-stem-blight',
     'area-damaged' => 'whole-field',
@@ -11530,11 +11530,11 @@
     'mycelium' => 'Absent',
     'plant-growth' => 'Norm',
     'plant-stand' => 'Normal',
-    'precip' => 'gt-normal',
+    'precip' => 'gt-Normal',
     'roots' => 'Desconhecido',
     'sclerotia' => 'Absent',
     'seed' => 'Abnorm',
-    'seed-discolor' => '',
+    'seed-discolor' => 'Present',
     'seed-size' => 'lt-norm',
     'seed-tmt' => 'Desconhecido',
     'severity' => 'Desconhecido',
@@ -11543,7 +11543,7 @@
     'stem-cankers' => 'Absent',
     'temp' => 'gt-norm',
   ),
-  297 => 
+  297 =>
   array (
     'DescDoenca' => 'cyst-nematode',
     'area-damaged' => 'low-areas',
@@ -11582,7 +11582,7 @@
     'stem-cankers' => 'Desconhecido',
     'temp' => 'Desconhecido',
   ),
-  298 => 
+  298 =>
   array (
     'DescDoenca' => 'cyst-nematode',
     'area-damaged' => 'upper-areas',
@@ -11621,7 +11621,7 @@
     'stem-cankers' => 'Desconhecido',
     'temp' => 'Desconhecido',
   ),
-  299 => 
+  299 =>
   array (
     'DescDoenca' => 'cyst-nematode',
     'area-damaged' => 'upper-areas',
@@ -11660,7 +11660,7 @@
     'stem-cankers' => 'Desconhecido',
     'temp' => 'Desconhecido',
   ),
-  300 => 
+  300 =>
   array (
     'DescDoenca' => 'cyst-nematode',
     'area-damaged' => 'low-areas',
@@ -11699,7 +11699,7 @@
     'stem-cankers' => 'Desconhecido',
     'temp' => 'Desconhecido',
   ),
-  301 => 
+  301 =>
   array (
     'DescDoenca' => 'cyst-nematode',
     'area-damaged' => 'low-areas',
@@ -11738,7 +11738,7 @@
     'stem-cankers' => 'Desconhecido',
     'temp' => 'Desconhecido',
   ),
-  302 => 
+  302 =>
   array (
     'DescDoenca' => 'cyst-nematode',
     'area-damaged' => 'low-areas',
@@ -11777,7 +11777,7 @@
     'stem-cankers' => 'Desconhecido',
     'temp' => 'Desconhecido',
   ),
-  303 => 
+  303 =>
   array (
     'DescDoenca' => '2-4-d-injury',
     'area-damaged' => 'Desconhecido',
@@ -11794,7 +11794,7 @@
     'leaf-malf' => 'Present',
     'leaf-mild' => 'Desconhecido',
     'leaf-shread' => 'Desconhecido',
-    'leafspots-halo' => 'absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -11816,7 +11816,7 @@
     'stem-cankers' => 'Desconhecido',
     'temp' => 'Desconhecido',
   ),
-  304 => 
+  304 =>
   array (
     'DescDoenca' => 'herbicide-injury',
     'area-damaged' => 'scattered',
@@ -11832,7 +11832,7 @@
     'int-discolor' => 'Desconhecido',
     'leaf-malf' => 'Present',
     'leaf-mild' => 'Desconhecido',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'no-w-s-marg',
@@ -11841,7 +11841,7 @@
     'mold-growth' => 'Desconhecido',
     'mycelium' => 'Desconhecido',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Desconhecido',
     'roots' => 'Rotted',
     'sclerotia' => 'Desconhecido',
@@ -11855,7 +11855,7 @@
     'stem-cankers' => 'Desconhecido',
     'temp' => 'lt-norm',
   ),
-  305 => 
+  305 =>
   array (
     'DescDoenca' => 'herbicide-injury',
     'area-damaged' => 'whole-field',
@@ -11871,8 +11871,8 @@
     'int-discolor' => 'Desconhecido',
     'leaf-malf' => 'Present',
     'leaf-mild' => 'Desconhecido',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -11880,7 +11880,7 @@
     'mold-growth' => 'Desconhecido',
     'mycelium' => 'Desconhecido',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Desconhecido',
     'roots' => 'Rotted',
     'sclerotia' => 'Desconhecido',
@@ -11894,7 +11894,7 @@
     'stem-cankers' => 'Desconhecido',
     'temp' => 'lt-norm',
   ),
-  306 => 
+  306 =>
   array (
     'DescDoenca' => 'herbicide-injury',
     'area-damaged' => 'scattered',
@@ -11910,8 +11910,8 @@
     'int-discolor' => 'Desconhecido',
     'leaf-malf' => 'Present',
     'leaf-mild' => 'Desconhecido',
-    'leaf-shread' => 'absent',
-    'leafspots-halo' => 'absent',
+    'leaf-shread' => 'Absent',
+    'leafspots-halo' => 'Absent',
     'leafspot-size' => 'dna',
     'leafspots-marg' => 'dna',
     'leaves' => 'Abnorm',
@@ -11919,7 +11919,7 @@
     'mold-growth' => 'Desconhecido',
     'mycelium' => 'Desconhecido',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Desconhecido',
     'roots' => 'Rotted',
     'sclerotia' => 'Desconhecido',
@@ -11933,7 +11933,7 @@
     'stem-cankers' => 'Desconhecido',
     'temp' => 'lt-norm',
   ),
-  307 => 
+  307 =>
   array (
     'DescDoenca' => 'herbicide-injury',
     'area-damaged' => 'whole-field',
@@ -11949,7 +11949,7 @@
     'int-discolor' => 'Desconhecido',
     'leaf-malf' => 'Present',
     'leaf-mild' => 'Desconhecido',
-    'leaf-shread' => 'absent',
+    'leaf-shread' => 'Absent',
     'leafspots-halo' => 'no-yellow-halos',
     'leafspot-size' => 'gt-1/8',
     'leafspots-marg' => 'no-w-s-marg',
@@ -11958,7 +11958,7 @@
     'mold-growth' => 'Desconhecido',
     'mycelium' => 'Desconhecido',
     'plant-growth' => 'Abnorm',
-    'plant-stand' => 'lt-normal',
+    'plant-stand' => 'lt-Normal',
     'precip' => 'Desconhecido',
     'roots' => 'Rotted',
     'sclerotia' => 'Desconhecido',

@@ -8,11 +8,11 @@ date,?,Desconhecido,Sim
 ,6,Outubro,
 plant-stand,?,Desconhecido,Não
 ,0,Normal,
-,1,lt-normal,
+,1,lt-Normal,
 precip,?,Desconhecido,Não
-,0,lt-normal,
+,0,lt-Normal,
 ,1,Normal,
-,2,gt-normal,
+,2,gt-Normal,
 temp,?,Desconhecido,Não
 ,0,lt-norm,
 ,1,norm,
@@ -48,7 +48,7 @@ plant-growth,?,Desconhecido,Não
 leaves,0,Norm,Não
 ,1,Abnorm,
 leafspots-halo,?,Desconhecido,Não
-,0,absent,
+,0,Absent,
 ,1,yellow-halos,
 ,2,no-yellow-halos,
 leafspots-marg,?,Desconhecido,Não
@@ -60,7 +60,7 @@ leafspot-size,?,Desconhecido,Não
 ,1,gt-1/8,
 ,2,dna,
 leaf-shread,?,Desconhecido,Não
-,0,absent,
+,0,Absent,
 ,1,Present,
 leaf-malf,?,Desconhecido,Não
 ,0,Absent,
