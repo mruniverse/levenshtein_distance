@@ -71,7 +71,7 @@ function get_case_values($normal_case, $attributes){
     return $normal_values;
 }
 
-function get_max_values($cases, $attributes){
+function get_extreme_values($cases, $attributes){
     $case_values = array();
     $size = sizeof($cases);
     $max = $min = 0;
