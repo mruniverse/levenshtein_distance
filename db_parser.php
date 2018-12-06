@@ -38,7 +38,7 @@ while (($line = fgetcsv($file)) !== FALSE){
   $weights[$line[0]] = $line[1];
 }
 
-echo $weights['date'];
+//echo $weights['date'];
 fclose($file);
 // ============================================================================
 
@@ -100,10 +100,10 @@ function get_extreme_values($cases, $attributes, $choice, $att_number){
     // echo 'Max:' . $max . 'Min:' . $min;
     // print_r($case_values[200][0]);
     if($choice == "max"){
-        return $max;
+        return ($max == 0) ? 1 : $max;
     }
     else if($choice == "min"){
-        return $min;
+        return $min;//$min;
     }
     else{
         return "Please, coose between 'max' and 'min'.";
@@ -113,9 +113,8 @@ function get_extreme_values($cases, $attributes, $choice, $att_number){
 // echo get_extreme_values($cases, $attributes, "max", 3);
 
 
-
 // ============================================================================
-function similarity($cases, $normal_case, $problem_case, $attr){
+function similarity($cases, $normal_case, $problem_case, $attr, $weights){
   // foreach($cases as $key => $value)
   // {
   //   print_r($key . " || " . $value);
@@ -135,21 +134,25 @@ function similarity($cases, $normal_case, $problem_case, $attr){
     $problem_values[] = $attr[$key][$value];
   }
 
-  // print_r($normal_values);
-
   $total = 0;
-  for ($i = 0; $i < 35; $i++){
+  for ($i = 1; $i < 35; $i++){
       if(get_extreme_values($cases, $attr, "max", $i) == 0){
           // print_r($cases[1][$attr[$i]]);
           echo get_extreme_values($cases, $attr, "max", $i);
           echo $i . "\n";
       }
-    // $total += (1 - abs( $normal_values[$i] - $problem_values[$i] ) / (get_extreme_values($cases, $attr, "max", $i) - get_extreme_values($cases, $attr, "min", $i)));
+      $attr_name = array_keys($cases[2])[$i];
+
+     $total += (1 - abs( $normal_values[$i] - $problem_values[$i] )
+          / (get_extreme_values($cases, $attr, "max", $i) -
+          get_extreme_values($cases, $attr, "min", $i)) ) * $weights[$attr_name];
+
   }
-  // return $total;
+  return ($total / 210);
 }
-
-
-echo similarity($cases, $cases[1], $cases[17], $attributes);
-echo "\n";
+  for ($i = 1; $i<sizeof($cases); $i++)
+  {
+    printf("Caso(%d) com Caso(%d) = %.2f%%\n", $i, 17,
+      similarity($cases, $cases[$i], $cases[17], $attributes, $weights) * 100);
+  }
 ?>
