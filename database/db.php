@@ -1063,7 +1063,7 @@
     'fruit spots' => 'dna',
     'fruiting-bodies' => 'Absent',
     'fruit-pods' => 'dna',
-    'germination' => '80-89 %',
+    'germination' => '80-89%',
     'hail' => 'Yes',
     'int-discolor' => 'None',
     'leaf-malf' => 'Absent',
